@@ -1,7 +1,7 @@
 Basic git commands list :-
 
 
-git init = for making file or folder a git repo
+git init = to make file or folder a git repo
 git clone url = to copy repo in local system
 git status = to check github status
 git add or git add .  = to add files in stage area
