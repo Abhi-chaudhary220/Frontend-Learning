@@ -1,0 +1,247 @@
+/*h3{
+    color:bisque;
+}
+
+button
+{
+    color:brown;
+    background-color: yellow;
+    
+}
+
+body
+{
+    background-color: gold;
+
+}
+
+article
+{
+    background-color:green ;
+    color:blue;
+}
+
+div
+
+{
+    background-color: rgb(124,55,255);
+    color:rgb(255,0,0);
+}
+
+h2
+{
+    color:#23ff00;
+    background-color: #787878;
+}
+
+aside
+{
+    background-color: #00ff;
+    color:#ecf542;
+}
+
+*/
+
+ /* *{
+    background-color: beige;
+    color: #ff0000;
+} 
+
+h4
+{
+    background-color:darkturquoise;
+    color:tomato;
+
+}  */
+
+/* #Hello
+{
+    background-color: #00ff00;
+    color:blueviolet;
+} */
+
+/* .myeleven
+{
+    color: pink;
+}
+
+.mybye
+
+{
+    color:brown;
+} */
+
+/* practice :- */
+/* #box
+{
+    color:blueviolet;
+    background-color: azure;
+}
+
+.headingone
+{
+    color:darkorange;
+    background-color: blue;
+}
+
+button{
+    background-color: green;
+
+} */
+
+/* h1
+{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p
+{
+    text-align: left;
+}  */
+
+/* h1
+{
+    font-weight: lighter;
+}
+
+h3
+{
+    font-weight: 900;
+} */
+
+/* h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2
+{
+    font-family: sans-serif;
+} */
+
+/* p
+{
+    font-size: 20px;
+}
+
+button
+{
+    border-radius: 20px;
+    border-color: blueviolet;
+    background-color: aqua;
+    color:blanchedalmond;
+} */
+
+/* p
+{
+    font-size: 20px;
+    font-weight: bolder ;
+} */
+
+/* line
+{
+    line-height: 22px;
+} */
+
+/* text
+{
+    text-transform: uppercase; 
+}
+
+text2
+{
+    text-transform: capitalize;
+} */
+
+
+/* #outer
+
+{
+    font-size: 25px;
+}
+
+#inner
+
+{
+    font-size: 10px;
+} */
+
+/* .one
+{
+    height: 100px;
+    width: 100px;
+    border: 100px;
+    text-align: center;
+    background-color: aquamarine;
+    margin: 15px;
+    padding: 95px , 105px , 115px , 125px;
+}
+
+.two
+{
+    height: 100px;
+    width: 100px;
+    border: 100px;
+    text-align: center;
+    background-color: aquamarine;
+    margin: 15px;
+    padding:95px , 105px , 115px , 125px;
+} */
+
+
+/* div{
+
+    height: 100px;
+    width: 100px;
+    border: 100px;
+    background-color: rgb(228, 13, 103);
+    text-align: center;
+    font-family: arial;
+    margin: 25px;
+    padding: 15px;
+    border-color:blue;
+    color:blueviolet;
+    border-width: 25px;
+    border-style: dotted;
+    border-radius: 50%;
+
+
+
+} */
+
+/* div{
+
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+
+} */
+
+nav{
+    height: 70px;
+    background-color: black;
+    color: white;
+    border-width: 250px white solid;
+
+#one{
+
+    color: orange;
+    height: 2px;
+}
+    
+    button{
+
+        color: yellow;
+        background-color: orange;
+    
+    }
+
+}
+
+
+
+
+
