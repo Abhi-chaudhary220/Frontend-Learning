@@ -1,2 +1,14 @@
-This is a basic git commands list :-
+Basic git commands list :-
+
+
+git init = for making file or folder a git repo
+git clone url = to copy repo in local system
+git status = to check github status
+git add or git add .  = to add files in stage area
+git commit -m "Add basic description" = to commit changes
+git push origin main = to push all the changes on remote repo or github site
+git remote add origin link = to connect local repo to remote repo
+git remote -v = to check remote status
+git branch = to check branch is master or main
+git branch -M main =  to rename branch
 
