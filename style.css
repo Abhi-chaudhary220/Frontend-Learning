@@ -220,7 +220,7 @@ text2
 
 } */
 
-nav{
+/* nav{
     height: 70px;
     background-color: black;
     color: white;
@@ -239,9 +239,31 @@ nav{
     
     }
 
+} */
+
+
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#navbar {
+Height:60px;
+background-color: #0f1111;
+border : 2px solid white;
+
 }
 
+#logo{
+    color:#f08804;
+    font-size: 25px;;
+}
 
-
-
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+button{
+    background-color:#f08804;
+}
 
