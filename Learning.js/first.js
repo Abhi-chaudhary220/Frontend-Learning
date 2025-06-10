@@ -1,7 +1,6 @@
 // From now learning javascript//
 
-console.log("hello world");
-
+/* console.log("hello world");
 console.log("Wha's your name");
 console.log("whatsup");
 console.log("whats going on");
@@ -53,7 +52,7 @@ ispass= true;
 console.log(price , ispass);
 
 
-const Student= {
+const Student={
     Name: "Abhishek Chaudhary",
     age: 20,
     isstudy : true,
@@ -86,7 +85,7 @@ console.log(pen.ratings);
 // Practice question= //
 
 let profile={
-    username: "Abhishek chaudhary",
+    username: "Abhishek Chaudhary",
     Name:"Abhishek",
     followers:0,
     following:0,
@@ -94,4 +93,118 @@ let profile={
 
 }
 
-console.log(profile["username"],profile["Name"],profile["following"]);
+console.log(profile["username"],profile["Name"],profile["following"]); 
+
+
+
+// Operators in js
+
+// Arithmetic Operators = +, -, *, /. %, **
+
+let a= 85;
+let b= 55;
+let c= a+b;
+
+console.log(a+b);
+console.log("a-b=", a-b);
+console.log(a*b);
+console.log("a/b=", a/b);
+console.log(a%b);
+console.log("a**b=", a**b);
+
+
+// Urinary Operators = ++, --, 
+
+let d= 5;
+let e= 10;
+let f= d+e;
+console.log("d+e=", ++f);
+console.log(d--);
+console.log(d);
+
+// Assignment Operators : =, +=, -=, *=, /=, %=, **=
+
+
+let g= 5;
+let h= 9;
+console.log(g += h); 
+console.log(h -= g);
+console.log(g *= h);
+console.log(h /= g);
+console.log(g %= h);
+console.log(h**= g);
+
+
+// Comparison Operators :  ==, !=, ===, !==, >, >=, <, <=
+
+
+let i= 8;
+let j= 9;
+console.log(i == j); 
+console.log(j != i);
+console.log(i === j);
+console.log(j !== i);
+console.log(i > j);
+console.log(j >= i);
+console.log(i < j);
+console.log(j <= i);
+
+
+// Logical Operators = &&, ||, !
+
+
+let k= 8;
+let l= 9;
+let cond1= (k < l);
+let cond2= (k != l);
+console.log("cond1 && cond2=", k < l && k != l); 
+console.log("cond1 || cond2=", k < l || k != l);
+console.log("!(k > l)=" , !(8 > 9)); */
+
+
+// Conditional Statements = if, else, else if, switch
+
+let complexion = "fair";
+if (complexion === "fair")
+{console.log("In summers you'll get tanned")};
+
+
+
+{let complexion = "fair"; //black
+if (complexion === "fair")
+{console.log("In summers you'll get tanned")}
+
+else 
+{console.log("No need to worry")}};
+
+
+
+{let complexion = "fair";
+    if (complexion ==="fair"){
+        console.log("its bad for ur skin");
+    }
+    else if (complexion === "black"){
+        console.log("its good for ur skin");
+    }
+    else if (complexion === "brown"){
+        console.log("its little bit ok for ur skin");
+    }
+    else 
+        {console.log("you're a great person")}
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
