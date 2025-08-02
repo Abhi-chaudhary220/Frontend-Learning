@@ -211,7 +211,7 @@ else
 
     // console.log("RESTARTING THE JS LEARNING JOURNEY");
 
-    
+    console.log("hello world");
 
 
 
