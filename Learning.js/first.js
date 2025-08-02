@@ -190,8 +190,28 @@ else
         console.log("its little bit ok for ur skin");
     }
     else 
-        {console.log("you're a great person")}
+        {console.log("you're a great person");}
     }
+
+
+    // Ternary operator 
+
+    let age= 25;
+    let output= (age>18? "you'll get a license" : "you'll not get any license");
+    {console.log(output);}
+
+
+    let grade = ("A","B");
+    let result = (grade===("A","B")? "You're pass" : "You're fail");
+    {console.log(result);}
+
+
+
+    //Switch statement
+
+    // console.log("RESTARTING THE JS LEARNING JOURNEY");
+
+    
 
 
 
