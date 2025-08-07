@@ -4,7 +4,7 @@ git commands list :-
 git init = to make file or folder a git repo
 git clone url = to copy repo in local system
 git status = to check github status
-git add or git add .  = to add files in stage area
+git add or git add .  = to add files in stage area and  from(.) this you'll add all the files at one time
 git commit -m "Add basic description" = to commit changes
 git push origin main = to push all the changes on remote repo or github site
 git remote add origin link = to connect local repo to remote repo
@@ -17,4 +17,5 @@ git checkout -d feature1 = to delete feature1 branch
 git diff main = to know the diff between branches
 git merge feature1 = to merge other branches into main branch
 git pull origin main = to show remote changes in local system
+
 
