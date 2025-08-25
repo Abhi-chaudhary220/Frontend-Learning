@@ -228,12 +228,46 @@ Age = (22);
 Pencil =("Natraj");
 followers = (700);
 qualification =( "B.Tech");
+people = "twenty";
 
 console.log(fullname);
 console.log(Age);
 console.log("Pencil");
 console.log (followers);
 console.log(qualification);
+console.log(people);
+
+
+// Variables- let, const 
+
+let fruit = ("Orange");
+let Fruit = ("Orange");
+let _Name = "Abhishek Chaudhary";
+let Ages = (22);
+console.log(fruit);
+console.log(Fruit);
+console.log(_Name);
+console.log(Age);
+
+
+
+const students = "twenty";
+const student = "twenty";
+const price = 18400;
+const prices = 20000;
+console.log(students);
+console.log(student);
+console.log(price);
+console.log(prices);
+
+
+// Datatypes-
+
+
+
+
+
+
 
 
 
