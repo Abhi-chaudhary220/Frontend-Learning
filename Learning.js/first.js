@@ -267,11 +267,23 @@ console.log(prices);
 2- String
 3- Boolean
 4- Null
-5- undefined
+5- Undefined
 6- BigInt
 7- Symbol
 
+let marks= 90;
+const number1= 45;
+console.log(marks);
+console.log(number1);
 
+let rupees= " Twenty five thousand";
+const rupees1= " twenty five thousand";
+console.log(rupees);
+console.log(rupees1);
+
+const he_studying= (true);
+let she_studying= (false);
+conso
 
 
 
