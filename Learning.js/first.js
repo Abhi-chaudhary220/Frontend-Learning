@@ -266,8 +266,8 @@ console.log(prices);
 1- Number
 2- String
 3- Boolean
-4- Null
-5- Undefined
+4- null
+5- undefined
 6- BigInt
 7- Symbol
 
@@ -283,7 +283,20 @@ console.log(rupees1);
 
 const he_studying= (true);
 let she_studying= (false);
-conso
+console.log(he_studying);
+console.log(she_studying);
+
+let jai=null;
+console.log(jai);
+
+const vibgyor= undefined;
+console.log(vibgyor);
+
+let my_number= BigInt(1234567890);
+console.log(my_number);
+
+const sign= Symbol("Hello World");
+console.log(sign);
 
 
 
