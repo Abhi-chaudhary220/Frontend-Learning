@@ -299,6 +299,21 @@ const sign= Symbol("Hello World");
 console.log(sign);
 
 
+// Practise Question 
+
+
+let pen =  {
+    pen_name: "Butterflow",
+    price: 10,
+    reviews: 4.8,
+    is_deal: true
+};
+
+pen_name1 ="Pilot";
+
+console.log(pen_name1);
+
+
 
 
 
