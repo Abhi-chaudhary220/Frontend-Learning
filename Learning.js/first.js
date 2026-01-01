@@ -107,6 +107,8 @@ const number = {
 };
 console.log(number.Sum());
 
+// All of the above code is becoming comment now
+
 
 
 
