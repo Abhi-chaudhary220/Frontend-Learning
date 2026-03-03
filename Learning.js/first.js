@@ -13,6 +13,8 @@
 // let Age = 20;
 // Age= 21;
 // console.log(Age);
+let price = 899;
+console.log(typeof price);
 
 // LET VARIABLE ME VARIABLE NAME CHANGE NHI KIA JA SKTA BUT VALUE UNLIMITED TIMES UPDATE KRI JA SKTI H.
 
