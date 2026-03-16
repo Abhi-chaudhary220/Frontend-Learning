@@ -117,26 +117,66 @@
 
 
 
+// STRING:-
+
+
+// let Name = "Abhishek";
+// console.log(Name);
+// console.log(Name.length);
+// console.log(typeof Name);
+
+// const my_first_phn = "poco x3";
+// console.log(my_first_phn);
+// console.log(typeof my_first_phn);
 
 
 
+// NUMBER:-
+
+// const price =999;
+// console.log(price);
+// console.log(typeof price);
+
+// const price_2 = 849;
+// console.log(price_2);
+// console.log(typeof price_2);
 
 
 
+// BOOLEAN:-
+
+// const is_student_pass= true;
+// console.log(is_student_pass);
+// console.log(typeof is_student_pass);
+
+// const is_student_fail= false;
+// console.log(is_student_fail);
+// console.log(typeof is_student_fail);
 
 
 
+// null and undefined:-
+
+// let x= null;
+// console.log(x);
+// console.log(typeof x);
+
+// let y;
+// console.log(y);
+// console.log(typeof y);
 
 
+// ADVANCE:-
 
+// OBJECTS:-
 
-
-
-
-
-
-
-
+// const student = {
+//     Name: "Vicky",
+//     age: 100,
+//     is_learning_js: true,
+// };
+// console.log(student);
+// console.log(student["Name"]);
 
 
 
