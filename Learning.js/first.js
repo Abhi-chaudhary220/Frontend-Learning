@@ -2,6 +2,10 @@
 
 // VARIABLES :-
 
+
+
+
+
 // var Name = "ABHISHEK";
 // var Name = "VICKY";
 // var Name = "DEEPU";
@@ -59,6 +63,9 @@
 
 
 // DATATYPES:-
+
+
+
 
 
 // SYMBOL :-
@@ -181,3 +188,32 @@
 
 
 
+
+// Operators and conditional statements:-
+
+
+// Arithmetic operators:-
+
+// let a = 20;
+// let b = 25;
+// console.log(a + b)
+
+// let a = 20;
+// let b = 23;
+// console.log(a-b);
+
+// let a = 69;
+// let b = 93;
+// console.log (a * b);
+
+// let a = 49;
+// let b = 94;
+// console.log (a / b);
+
+// let a = 96;
+// let b = 78;
+// console.log(a % b);
+
+// let a = 99;
+// let b = 88;
+// console.log(a ** b);
