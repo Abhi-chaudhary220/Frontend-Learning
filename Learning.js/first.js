@@ -217,3 +217,34 @@
 // let a = 99;
 // let b = 88;
 // console.log(a ** b);
+
+
+// Assignment operators:-
+
+// let a = 20;
+// console.log(a);
+
+// let a = 25;
+// a += 10;
+// console.log(a);
+
+// let b = 49;
+// b -= 49.99;
+// console.log(b);
+
+// let c = 87;
+// c *= 22;
+// console.log(c);
+
+// let d = 56;
+// d /= 78;
+// console.log (d);
+
+// let e = 86;
+// e %= 77;
+// console.log (e);
+
+// let f = 66;
+// f **= 44;
+// console.log(f);
+
