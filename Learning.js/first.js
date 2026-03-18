@@ -248,3 +248,55 @@
 // f **= 44;
 // console.log(f);
 
+
+// Comparison operators:-
+
+// let a = 10;
+// let b = 45;
+// console.log("10 == 45", a ==b);
+
+// or
+
+// let a = 10;
+// let b = "10";
+// console.log(a == b);
+
+// let c = 477;
+// let d = 99;
+// console.log(c === d);
+
+// or
+
+// let a = 10;
+// let b = "10";
+// console.log(a == b); yha true isliye mila kyuki js string ko number me change krta h aur usme bhi sirf ek string ko jaise whole number joki string me h.
+
+// let c = 888;
+// let b = 333;
+// console.log(c != b);
+
+// let c = 5;
+// let d = "3 + 2";
+// console.log (c != d); yha true isliye mila kyuki js string ko number me change krta h pr yha number to h pr whole k form me nhi expression k form me h isliye ye true hua k not equal h if yha pr whole sting inside number hota to false show hota.
+
+// let e = 48473808;
+// let f = 79579375;
+// console.log (e !== f);
+
+// let a = 34;
+// let b = 78;
+// console.log (a > b);
+
+
+// let c = 44;
+// let d = 67;
+// console.log(c < d);
+
+
+// let marks_1 = 57;
+// let marks_2 = 78;
+// console.log(marks_1 >= marks_2);
+
+// let size_a = "45mm";
+// let size_b = "55mm";
+// console.log(size_a <= size_b);
