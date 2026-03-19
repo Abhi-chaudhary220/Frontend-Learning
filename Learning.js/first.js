@@ -303,7 +303,11 @@
 
 // Logic operators:-
 
-let a = 56;
-let b = 78;
-console.log(a<b &&b>a);
+// let a = 56;
+// let b = 78;
+// console.log(a<b && b>a); Mathematical check krna chahta hu to & isse check krunga to numeric expression me output aaega] and if logically check krna chahta hu to && isse true/false me output aaega.
+
+// let a = 66;
+// let b = 78;
+// console.log(a>b || a==b);
 
