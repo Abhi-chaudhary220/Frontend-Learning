@@ -311,3 +311,7 @@
 // let b = 78;
 // console.log(a>b || a==b);
 
+let a = 78;
+let b = 98;
+console.log (!(a>b));
+
