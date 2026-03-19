@@ -300,3 +300,10 @@
 // let size_a = "45mm";
 // let size_b = "55mm";
 // console.log(size_a <= size_b);
+
+// Logic operators:-
+
+let a = 56;
+let b = 78;
+console.log(a<b &&b>a);
+
