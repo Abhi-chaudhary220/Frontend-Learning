@@ -383,3 +383,12 @@
 // };
 
 
+// else-if statements:-
+
+// let marks = "85%";
+// if (marks <= "45%") {
+//     console.log("You are fail, try again");
+// }
+// else if (marks >= "50%") {
+//     console.log("You are pass, keep it up more:");
+// };
