@@ -315,3 +315,34 @@
 // let b = 98;
 // console.log (!(a>b));
 
+
+// Unary operators:-
+
+// Increment:-
+
+// let x = 30;
+// x++;
+// console.log(x);
+
+// Decrement:-
+
+// let a = 70;
+// a--;
+// console.log(a);
+
+
+// PRE:-
+
+// let a = 80;
+// let result = ++a;
+// console.log(result);
+
+// POST:-
+
+// let s = 85;
+// let result = s++;
+// console.log(result);
+// console.log(s);
+
+
+
