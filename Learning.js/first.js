@@ -345,4 +345,14 @@
 // console.log(s);
 
 
+// Ternary operator:-
+
+
+// let marks = "95%";
+// let result = marks >="33%"? "Pass" : "Fail";
+// console.log(result);
+
+// let age = 30;
+// let result = age >= 28? "You can enter in the class" : "you can't enter in the class";
+// console.log(result);
 
