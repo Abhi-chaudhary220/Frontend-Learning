@@ -359,12 +359,27 @@
 
 // Conditional statements:-
 
+// if statement:-
 
-let color = "orange";
-if (color === "red") {
-    console.log("The color is red");
-};
-if (color === "orange") {
-    console.log("The color is orange");
-};
+
+// let color = "orange";
+// if (color === "red") {
+//     console.log("The color is red");
+// };
+// if (color === "orange") {
+//     console.log("The color is orange");
+// };
+
+
+// if-else statement:-
+
+
+// let mood = "wonderful";
+// if ( mood === "bad") {
+//     console.log("Come and  sit near me and talk to me");
+// }
+// else {
+//     console.log("everything is fine and let's go for a walk");
+// };
+
 
