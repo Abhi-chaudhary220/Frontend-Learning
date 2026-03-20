@@ -356,3 +356,15 @@
 // let result = age >= 28? "You can enter in the class" : "you can't enter in the class";
 // console.log(result);
 
+
+// Conditional statements:-
+
+
+let color = "orange";
+if (color === "red") {
+    console.log("The color is red");
+};
+if (color === "orange") {
+    console.log("The color is orange");
+};
+
