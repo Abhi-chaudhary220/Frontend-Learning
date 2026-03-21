@@ -392,3 +392,45 @@
 // else if (marks >= "50%") {
 //     console.log("You are pass, keep it up more:");
 // };
+
+
+
+// SWITCH STATEMENT:-
+
+
+// let fruit = "Apple";
+
+// switch (fruit) {
+//     case "Mango" : console.log(" Most favourite fruit")
+//     break;
+
+//     case "Apple" : console.log("My favourite first")
+//     break;
+
+//     case "Banana" : console.log("Best fir gym pre-workout")
+//     break;
+
+//     default : console.log("I dont't like fruits")
+// };
+
+
+// let marks = "68%";
+
+// switch (marks)
+// {
+//     case marks <= "54%" : 
+//     console.log("You are fail")
+//     break;
+
+//     case marks = "33%" :
+//         console.log("You need to work hard")
+//         break;
+
+//     case marks ="68%" :
+//         console.log("You are pass")
+//         break;
+
+//         default :
+//         console.log("No one is pass")
+
+// };
