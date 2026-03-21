@@ -445,15 +445,28 @@
 // Falsy values = false, "", null, undefined, nan, 0.
 // Truthy values = "hello", "0", 1, [], true, {}.
 
+// const str = ("");
 
-if ("") {
-    console.log("empty string is false");
-}
-else if ("hello") {
-    console.log("hello string is true");
-};
+// if (str) {
+//     console.log("str is true");
+// }
+// else {
+//     console.log("str is false");
+// };
+
+
+// if (null){
+//     console.log("null is true value");
+// }
+// else {
+//     console.log("null is false value");
+// };
+
 
 
 // Nullish coalescing operator :-
+
+
+
 
 
