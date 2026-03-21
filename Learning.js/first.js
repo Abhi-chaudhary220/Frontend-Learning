@@ -468,5 +468,12 @@
 
 
 
+// let integer = 0;
+// let result = integer ?? 50;
+// console.log(result);
 
+
+// let false_str = null;
+// let output = false_str ?? "Abhishek";
+// console.log(output);
 
