@@ -434,3 +434,23 @@
 //         console.log("No one is pass")
 
 // };
+
+
+
+
+
+// Truthy $ Falsy values :-
+
+
+// Falsy values = false, "", null, undefined, nan, 0.
+// Truthy values = "hello", "0", 1, [], true, {}.
+
+
+if (true) {
+    console.log(value);
+}
+
+
+// Nullish coalescing operator :-
+
+
