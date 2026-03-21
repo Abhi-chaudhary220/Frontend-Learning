@@ -446,9 +446,12 @@
 // Truthy values = "hello", "0", 1, [], true, {}.
 
 
-if (true) {
-    console.log(value);
+if ("") {
+    console.log("empty string is false");
 }
+else if ("hello") {
+    console.log("hello string is true");
+};
 
 
 // Nullish coalescing operator :-
