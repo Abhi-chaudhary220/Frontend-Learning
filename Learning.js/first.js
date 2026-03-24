@@ -501,4 +501,15 @@
 // console.log("Loop stops");
 
 
+// By using loop we can calculate sums & substracts:-
+
+// let number = 50;
+// for (let count=30;count<=100;count++){
+//     number = number + count;
+// }
+// console.log(number);
+// console.log("Loop has ended");
+
+
+
 
