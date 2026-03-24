@@ -477,3 +477,15 @@
 // let output = false_str ?? "Abhishek";
 // console.log(output);
 
+
+
+
+
+
+
+// LOOPS:-
+
+for ( let i=5;i>=10;i++);
+console.log("Hello Abhishek");
+
+
