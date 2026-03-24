@@ -485,7 +485,20 @@
 
 // LOOPS:-
 
-for ( let i=5;i>=10;i++);
-console.log("Hello Abhishek");
+// for (let i=1;i<=10;i++){
+// console.log("Hello Abhishek")};
+
+// console.log('loop finish');
+
+// for (let a = 5;a<=150000;a++){
+//     console.log("HELLO")
+// };
+// console.log("Loop has ended");
+
+// for (let num=20;num>=-60;num--){
+//     console.log("HELLO")
+// };
+// console.log("Loop stops");
+
 
 
