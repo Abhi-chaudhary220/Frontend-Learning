@@ -529,3 +529,7 @@
 // const price$ = 499;
 // console.log(price$);
 
+// let a = 45;
+// let b = 67;
+// console.log(a === b, typeof a);
+
