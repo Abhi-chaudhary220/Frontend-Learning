@@ -520,6 +520,14 @@
 // console.log(integer);
 // console.log("Subtract using loop is successful");
 
+
+
+
+
+// PRACTICING OLD TOPICS :-
+
+
+
 // const Name = "Abhishek";
 // console.log(Name);
 
