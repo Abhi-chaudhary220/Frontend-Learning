@@ -526,3 +526,6 @@
 // const id = 123;
 // console.log(id);
 
+// const price$ = 499;
+// console.log(price$);
+
