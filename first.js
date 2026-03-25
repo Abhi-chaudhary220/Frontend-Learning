@@ -513,10 +513,13 @@
 
 // By using loop we can do subtracts of numbers too:-
 
-let integer = 30;
-for (let cal=5;cal<=40;cal--){
-    integer = integer - cal;
-}
-console.log(cal);
-console.log("Subtract using loop is successful");
+// let integer = 30;
+// for (let cal=1;cal<=5;cal--){
+//     integer = integer - cal;
+// }
+// console.log(integer);
+// console.log("Subtract using loop is successful");
+
+// const Name = "Abhishek";
+// console.log(Name);
 
