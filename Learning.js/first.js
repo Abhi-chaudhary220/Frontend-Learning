@@ -541,3 +541,19 @@
 // let b = 67;
 // console.log(a === b, typeof a);
 
+let a = 55;
+let b = 67;
+console.log(a != b);
+
+
+
+// Again learning loops and strings :-
+
+
+
+for (i=1; i <= 6; i++){
+    console.log(i)
+};
+console.log(i);
+console.log(i);
+
