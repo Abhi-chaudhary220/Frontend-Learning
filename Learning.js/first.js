@@ -545,6 +545,10 @@ let a = 55;
 let b = 67;
 console.log(a != b);
 
+let c = 7887;
+let d = 8686;
+console.log (a > b);
+
 
 
 // Again learning loops and strings :-
