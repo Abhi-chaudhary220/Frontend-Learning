@@ -541,17 +541,18 @@
 // let b = 67;
 // console.log(a === b, typeof a);
 
-let a = 55;
-let b = 67;
-console.log(a != b);
+// let a = 55;
+// let b = 67;
+// console.log(a != b);
 
-let c = 7887;
-let d = 8686;
-console.log (a > b);
+// let c = 7887;
+// let d = 8686;
+// console.log (a > b);
 
-let u = 999;
-let i = 787;
-console.log(!(i>u));
+// let u = 999;
+// let i = 787;
+// console.log(!(i>u));
+
 
 
 
