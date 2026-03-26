@@ -490,12 +490,12 @@
 
 // console.log('loop finish');
 
-// for (let a = 5;a<=150000;a++){
+// for (let a = 5;a<=15;a++){
 //     console.log("HELLO")
 // };
 // console.log("Loop has ended");
 
-// for (let num=20;num>=-60;num--){
+// for (let num=0;num<=2;num++){
 //     console.log("HELLO")
 // };
 // console.log("Loop stops");
@@ -503,8 +503,8 @@
 
 // By using loop we can calculate sums & substracts:-
 
-// let number = 50;
-// for (let count=30;count<=100;count++){
+// let number = 5;
+// for (let count=0;count<=10;count++){
 //     number = number + count;
 // }
 // console.log(number);
@@ -513,9 +513,9 @@
 
 // By using loop we can do subtracts of numbers too:-
 
-// let integer = 30;
-// for (let cal=1;cal<=5;cal--){
-//     integer = integer - cal;
+// let integer = 3;
+// for (let cal=1;cal<=5;cal++){
+//     integer = integer + cal;
 // }
 // console.log(integer);
 // console.log("Subtract using loop is successful");
