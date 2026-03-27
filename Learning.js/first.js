@@ -571,3 +571,12 @@
 //     console.log("learning js 'loops and strings' is a very fun challenge")
 // };
 
+// let a = 66;
+// let b = 55;
+// let result = (!(a==b));
+// for (let result=0;result<=5;result++){
+//     result="result";
+// };
+// console.log(result);
+
+
