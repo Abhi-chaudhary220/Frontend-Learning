@@ -571,10 +571,23 @@
 //     console.log("learning js 'loops and strings' is a very fun challenge")
 // };
 
+
+
+// optimized code :-
+
+// let a = 66;
+// let b = 55;
+// let result = (!(a==b));
+// const repeat = 6;
+// for (let i=0;i<6;i++){
+//     console.log(result)
+// };
+
+general code :-
+
 let a = 66;
 let b = 55;
 let result = (!(a==b));
-const repeat = 6;
 for (let i=0;i<6;i++){
     console.log(result)
 };
