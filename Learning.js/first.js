@@ -566,3 +566,8 @@
 // console.log(i);
 // console.log(i);
 
+
+// for (let count=0;count <=15;count++){
+//     console.log("learning js 'loops and strings' is a very fun challenge")
+// };
+
