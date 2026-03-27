@@ -583,14 +583,14 @@
 //     console.log(result)
 // };
 
-general code :-
+// general code :-
 
-let a = 66;
-let b = 55;
-let result = (!(a==b));
-for (let i=0;i<6;i++){
-    console.log(result)
-};
+// let a = 66;
+// let b = 55;
+// let result = (!(a==b));
+// for (let i=0;i<6;i++){
+//     console.log(result)
+// };
 
 
 
