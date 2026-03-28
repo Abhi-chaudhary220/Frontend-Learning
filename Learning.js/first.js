@@ -593,11 +593,11 @@
 // };
 
 
-const obj = {
-    Name : "Vicky",
-    Age : 20
-};
-console.log(obj);
+// const obj = {
+//     Name : "Vicky",
+//     Age : 20
+// };
+// console.log(obj);
 
 
 
