@@ -594,7 +594,7 @@
 
 
 const obj = {
-    Name : "Vicky"
+    Name : "Vicky",
     Age : 20
 };
 console.log(obj);
