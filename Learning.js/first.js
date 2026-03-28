@@ -599,5 +599,10 @@
 // };
 // console.log(obj);
 
+let a = 6;
+let b = 7;
+result = a ** b;
+console.log(result);
+
 
 
