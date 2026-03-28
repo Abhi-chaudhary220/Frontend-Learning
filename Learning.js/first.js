@@ -599,10 +599,13 @@
 // };
 // console.log(obj);
 
-let a = 6;
-let b = 7;
-result = a ** b;
-console.log(result);
+// let a = 6;
+// let b = 7;
+// result = a ** b;
+// console.log(result);
+
+let price = $499;
+console.log ($price);
 
 
 
