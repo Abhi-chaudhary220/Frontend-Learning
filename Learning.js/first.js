@@ -604,8 +604,8 @@
 // result = a ** b;
 // console.log(result);
 
-let price = $499;
-console.log ($price);
+// let price = $499;
+// console.log ($price);
 
 
 
