@@ -611,6 +611,9 @@ let add_1 = "hello";
 let add_2 = "world";
 console.log (add_1 , typeof add_2);
 
+let logic = 6 == 7;
+console.log(logic);
+
 
 
 
