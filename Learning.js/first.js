@@ -611,8 +611,8 @@
 // let add_2 = "world";
 // console.log (add_1 , typeof add_2);
 
-let logic = 6 == 7;
-console.log(logic);
+// let logic = 6 == 7;
+// console.log(logic);
 
 const fix = 500;
 console.log(fix);
