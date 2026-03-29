@@ -614,8 +614,8 @@
 // let logic = 6 == 7;
 // console.log(logic);
 
-const fix = 500;
-console.log(fix);
+// const fix = 500;
+// console.log(fix);
 
 let rupees = 99.99;
 console.log(rupees);
