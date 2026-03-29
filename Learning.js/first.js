@@ -620,10 +620,10 @@
 // let rupees = 99.99;
 // console.log(rupees);
 
-let fruit_1 = "orange";
-let fruit_2 = "banana";
-let result = fruit_1 === fruit_2;
-console.log(result);
+// let fruit_1 = "orange";
+// let fruit_2 = "banana";
+// let result = fruit_1 === fruit_2;
+// console.log(result);
 
 
 
