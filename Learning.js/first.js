@@ -607,5 +607,11 @@
 // let price = $499;
 // console.log ($price);
 
+let add_1 = "hello";
+let add_2 = "world";
+console.log (add_1 , typeof add_2);
+
+
+
 
 
