@@ -625,5 +625,7 @@
 // let result = fruit_1 === fruit_2;
 // console.log(result);
 
+console.log(hello);
+
 
 
