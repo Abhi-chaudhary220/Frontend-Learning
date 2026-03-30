@@ -627,7 +627,7 @@
 
 // console.log(hello);
 
-console.log(js);
+// console.log(js);
 
 console.log("hello world");
 
