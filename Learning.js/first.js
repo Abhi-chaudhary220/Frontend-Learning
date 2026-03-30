@@ -632,6 +632,7 @@ console.log(js);
 console.log("hello world");
 
 
+console.log("js is fun to learn ");
 
 
 
