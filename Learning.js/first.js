@@ -634,5 +634,7 @@ console.log("hello world");
 
 console.log("js is fun to learn ");
 
+console.log("js is the best language to learn in 2026");
+
 
 
