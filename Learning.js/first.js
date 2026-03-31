@@ -644,5 +644,5 @@
 
 // console.log("just few hours for completing loops and strings topic");
 
-console.log("today learning is done bye ");
+// console.log("today learning is done bye ");
 
