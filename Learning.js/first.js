@@ -640,5 +640,5 @@
 
 // console.log("hello js");
 
-console.log("Never use Infinite Loops in js");
+// console.log("Never use Infinite Loops in js");
 
