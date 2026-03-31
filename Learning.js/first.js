@@ -642,5 +642,5 @@
 
 // console.log("Never use Infinite Loops in js");
 
-console.log("just few hours for completing loops and strings topic");
+// console.log("just few hours for completing loops and strings topic");
 
