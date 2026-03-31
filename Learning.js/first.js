@@ -636,7 +636,7 @@
 
 // console.log("js is the best language to learn in 2026");
 
-console.log("from today i will learn different types of loops");
+// console.log("from today i will learn different types of loops");
 
 
 
