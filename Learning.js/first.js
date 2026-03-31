@@ -638,5 +638,5 @@
 
 // console.log("from today i will learn different types of loops");
 
-
+console.log("hello js");
 
