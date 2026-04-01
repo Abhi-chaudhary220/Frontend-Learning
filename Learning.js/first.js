@@ -666,4 +666,11 @@
 // }
 // while (u<=5);
 
+let e = 101;
+do{
+    console.log(55 == 68);e++
+}
+while (e<=115);
+
+
 
