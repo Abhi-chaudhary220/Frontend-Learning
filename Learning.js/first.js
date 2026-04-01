@@ -672,5 +672,7 @@
 // }
 // while (e<=115);
 
+console.log("today learning is done bye good night");
+
 
 
