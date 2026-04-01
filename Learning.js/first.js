@@ -660,4 +660,10 @@
     
 // }
 
+let u = 3;
+do{
+    console.log("this code will execute atleast once");u++
+}
+while (u<=5);
+
 
