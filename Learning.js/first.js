@@ -654,10 +654,10 @@
 // }
 
 
-let n = 5;
-while(n <=15) {
-    console.log("print this statement 11 times");n++
+// let n = 5;
+// while(n <=15) {
+//     console.log("print this statement 11 times");n++
     
-}
+// }
 
 
