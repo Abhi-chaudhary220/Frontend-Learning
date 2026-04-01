@@ -648,5 +648,8 @@
 
 console.log("new day start for learning js");
 
-
+let h = 1;
+while (h <= 5) {
+    console.log("hello this is while loop");h++
+}
 
