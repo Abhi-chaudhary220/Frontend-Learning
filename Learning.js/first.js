@@ -646,3 +646,7 @@
 
 // console.log("today learning is done bye ");
 
+console.log("new day start for learning js");
+
+
+
