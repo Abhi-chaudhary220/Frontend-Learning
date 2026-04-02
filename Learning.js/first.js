@@ -713,6 +713,6 @@
 
 
 
-let name = "Vicky";
+let name = "mango";
 let price = 499;
-let result = "name is" + name + "and price is" + price;
+console.log(`the price of name is ${price}`);
