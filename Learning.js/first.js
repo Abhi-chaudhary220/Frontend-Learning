@@ -679,9 +679,9 @@
 // LET'S START FOR-OF AND FOR-IN LOOPS:-
 
 
-let u = "Orange";
-for (let value of u){
-    console.log(value);
-};
+// let u = "Orange";
+// for (let value of u){
+//     console.log(value);
+// };
 
 
