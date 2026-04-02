@@ -715,4 +715,4 @@
 
 let name = "Vicky";
 let price = 499;
-let result = "name is" =
+let result = "name is" + name + "and price is" + price;
