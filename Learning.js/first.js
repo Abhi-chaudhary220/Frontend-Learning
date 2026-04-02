@@ -696,3 +696,15 @@
 // };
 
 
+// for-in loop:-
+
+
+let table = {
+    Name : "Abhishek",
+    Age : 20,
+    is_learning_js : true
+};
+for(let key in table){
+    console.log(key, table[key]);
+};
+
