@@ -708,3 +708,11 @@
 //     console.log(key, table[key]);
 // };
 
+
+// Template literals:-
+
+
+
+let name = "Vicky";
+let price = 499;
+let result = "name is" =
