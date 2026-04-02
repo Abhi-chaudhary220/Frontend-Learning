@@ -684,4 +684,9 @@
 //     console.log(value);
 // };
 
+let name = "deepu";
+for(let n of name){
+    console.log(n);
+};
+
 
