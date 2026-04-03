@@ -713,6 +713,8 @@
 
 
 
-let name = "mango";
-let price = 499;
-console.log(`the price of name is ${price}`);
+// let name = "mango";
+// let price = 499;
+// console.log(`the price of name is ${price}`);
+
+
