@@ -724,5 +724,5 @@
 // console.log(`the price of ${car} ${model} is ${price}`);
 
 
-let str = "hello i m Abhishek Chaudhary";
-console.log(str);
+// let str = "hello i m Abhishek Chaudhary";
+// console.log(str);
