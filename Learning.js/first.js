@@ -722,3 +722,7 @@
 // let model = "harrier";
 // let price = 2000000;
 // console.log(`the price of ${car} ${model} is ${price}`);
+
+
+let str = "hello i m Abhishek Chaudhary";
+console.log(str);
