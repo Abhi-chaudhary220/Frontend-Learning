@@ -718,7 +718,7 @@
 // console.log(`the price of name is ${price}`);
 
 
-let car = "tata";
-let model = "harrier";
-let price = 2000000;
-console.log(`the price of ${car} ${model} is ${price}`);
+// let car = "tata";
+// let model = "harrier";
+// let price = 2000000;
+// console.log(`the price of ${car} ${model} is ${price}`);
