@@ -733,6 +733,6 @@
 
 // console.log("string length topic is done");
 
-let str = "hello world";
-str = str.replace(str[0], "M");
-console.log(str);
+// let str = "hello world";
+// str = str.replace(str[0], "M");
+// console.log(str);
