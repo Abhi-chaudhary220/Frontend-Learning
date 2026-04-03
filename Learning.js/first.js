@@ -731,4 +731,4 @@
 // const name = "orange";
 // console.log("typeof name is =", typeof name, "& length of name is =", name.length);
 
-console.log("string length topic is done");
+// console.log("string length topic is done");
