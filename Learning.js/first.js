@@ -732,3 +732,7 @@
 // console.log("typeof name is =", typeof name, "& length of name is =", name.length);
 
 // console.log("string length topic is done");
+
+let str = "hello world";
+str = str[0] = "H";
+console.log(new_str);
