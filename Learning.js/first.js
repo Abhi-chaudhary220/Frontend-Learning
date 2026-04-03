@@ -728,6 +728,6 @@
 // console.log(str);
 
 
-const name = "orange";
-console.log("typeof name is =", typeof name, "& length of name is =", name.length);
+// const name = "orange";
+// console.log("typeof name is =", typeof name, "& length of name is =", name.length);
 
