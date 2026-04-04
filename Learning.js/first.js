@@ -757,3 +757,6 @@
 // let str = "hello, how are you, i m fine";
 // let result = str.split(",");
 // console.log(result);
+
+let str = "HOW ARE YOU AND HOW IS UR Family";
+console.log(str.toLowerCase());
