@@ -737,6 +737,6 @@
 // str = str.replace(str[0], "M");
 // console.log(str);
 
-let address = "pratap vihar";
-address = address.toUpperCase();
-console.log(address);
+// let address = "pratap vihar";
+// address = address.toUpperCase();
+// console.log(address);
