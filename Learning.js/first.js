@@ -745,3 +745,7 @@
 // let Name = "onion";
 // let result = Name.includes("i");
 // console.log(result);
+
+let str = "who are you";
+let result = str.split(" ");
+console.log(result);
