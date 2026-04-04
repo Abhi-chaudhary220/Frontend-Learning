@@ -754,6 +754,6 @@
 // let result = name.includes("s");
 // console.log(result);
 
-let str = "hello, how are you, i m fine";
-let result = str.split(",");
-console.log(result);
+// let str = "hello, how are you, i m fine";
+// let result = str.split(",");
+// console.log(result);
