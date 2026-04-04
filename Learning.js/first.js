@@ -749,3 +749,7 @@
 // let str = "who are you";
 // let result = str.split(" ");
 // console.log(result);
+
+let name = "Abhishek";
+let result = name.includes("s");
+console.log(result);
