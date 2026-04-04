@@ -740,3 +740,8 @@
 // let address = "pratap vihar";
 // address = address.toUpperCase();
 // console.log(address);
+
+
+let Name = "onion";
+let result = Name.includes("i");
+console.log(result);
