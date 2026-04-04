@@ -766,9 +766,9 @@
 // let result = str_1.concat(",",str_2);
 // console.log(result);
 
-let str_1 = "bye";
-let str_2 = "see you never";
-let result = str_1+" "+str_2;
-console.log(result);
+// let str_1 = "bye";
+// let str_2 = "see you never";
+// let result = str_1+" "+str_2;
+// console.log(result);
 
 
