@@ -758,5 +758,5 @@
 // let result = str.split(",");
 // console.log(result);
 
-let str = "HOW ARE YOU AND HOW IS UR Family";
-console.log(str.toLowerCase());
+// let str = "HOW ARE YOU AND HOW IS UR Family";
+// console.log(str.toLowerCase());
