@@ -760,3 +760,10 @@
 
 // let str = "HOW ARE YOU AND HOW IS UR Family";
 // console.log(str.toLowerCase());
+
+let str_1 = "hello";
+let str_2 = "how are you and what's up";
+let result = str_1.concat(",",str_2);
+console.log(result);
+
+
