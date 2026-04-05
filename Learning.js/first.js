@@ -794,3 +794,10 @@
 // };
 // console.log(num.length);
 
+
+let cartoons = ["oggy", "chhotabheem", "doraemon","ben10"];
+for(i=0; i<cartoons.length; i++){
+    console.log(cartoons[i]);
+};
+
+
