@@ -785,5 +785,8 @@
 // let fruits = ["mango", "banana", "orange", "guava"];
 // console.log(fruits.length);
 
+let price = [499, 599, 699, 799, 899];
+console.log(price.length);
+
 
 
