@@ -805,7 +805,7 @@
 // console.log(array);
 
 
-let arr_1 = [1,2,3,4,5,6,7,8,9,];
-arr_1.push(10);
-console.log(arr_1);
+// let arr_1 = [1,2,3,4,5,6,7,8,9,];
+// arr_1.push(10);
+// console.log(arr_1);
 
