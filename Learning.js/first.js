@@ -814,9 +814,11 @@
 // console.log(new_arr);
 
 
-const arr_2 = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
-const result = arr_2.splice(2, 3);  
-console.log(result);
-console.log(arr_2);
+// const arr_2 = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+// const result = arr_2.splice(2, 3);  
+// console.log(result);
+// console.log(arr_2);
+
+
 
 
