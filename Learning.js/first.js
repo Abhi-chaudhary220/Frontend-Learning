@@ -782,7 +782,8 @@
 //     console.log(value);
 //     };
 
-
+let fruits = ["mango", "banana", "orange", "guava"];
+console.log(fruits.length);
 
 
 
