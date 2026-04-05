@@ -809,3 +809,9 @@
 // arr_1.push(10);
 // console.log(arr_1);
 
+let arr_2 = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+let new_arr = arr_2.slice(1,5);
+console.log(new_arr);
+
+
+
