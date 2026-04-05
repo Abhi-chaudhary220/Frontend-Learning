@@ -800,4 +800,8 @@
 //     console.log(cartoons[i]);
 // };
 
+let array = [10, 20, 30, 40, 50, 60];
+array[2] = 35;
+console.log(array);
+
 
