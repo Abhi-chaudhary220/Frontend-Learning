@@ -777,4 +777,12 @@
 // let arr = ["hello", "how", 1, 2, true,];
 // console.log(arr);
 
+const array = [1,2,3,4,5,6,7];
+for (let value of array){
+    console.log(value);
+    };
+
+
+
+
 
