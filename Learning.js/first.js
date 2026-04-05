@@ -772,3 +772,9 @@
 // console.log(result);
 
 
+// Array:-
+
+let arr = ["hello", "how", 1, 2, true,];
+console.log(arr);
+
+
