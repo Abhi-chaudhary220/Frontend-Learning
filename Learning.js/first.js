@@ -788,9 +788,9 @@
 // let price = [499, 599, 699, 799, 899];
 // console.log(price.length);
 
-let num = [1,2,3,4,5,9,5,4,3,2];
-for(let value of num){
-    console.log(value);
-};
-console.log(num.length);
+// let num = [1,2,3,4,5,9,5,4,3,2];
+// for(let value of num){
+//     console.log(value);
+// };
+// console.log(num.length);
 
