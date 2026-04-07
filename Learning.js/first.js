@@ -819,6 +819,10 @@
 // console.log(result);
 // console.log(arr_2);
 
+// Practicing:-
+
+
+
 
 
 
