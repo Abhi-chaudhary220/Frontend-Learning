@@ -823,6 +823,8 @@
 
 // console.log("hello arrays");
 
+console.log("arrays methods");
+
 
 
 
