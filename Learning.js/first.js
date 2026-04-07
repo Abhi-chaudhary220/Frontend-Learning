@@ -825,7 +825,7 @@
 
 // console.log("arrays methods");
 
-console.log("using loops to print array values");
+// console.log("using loops to print array values");
 
 
 
