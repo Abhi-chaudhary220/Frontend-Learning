@@ -821,7 +821,8 @@
 
 // Practicing:-
 
-console.log("hello arrays");
+// console.log("hello arrays");
+
 
 
 
