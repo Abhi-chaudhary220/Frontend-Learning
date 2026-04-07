@@ -823,7 +823,7 @@
 
 // console.log("hello arrays");
 
-console.log("arrays methods");
+// console.log("arrays methods");
 
 
 
