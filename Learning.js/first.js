@@ -839,10 +839,10 @@
 //     console.log(value);
 // };
 
-let name = "kajaria tiles";
-for (let result of name){
-    console.log(result);
-};
+// let name = "kajaria tiles";
+// for (let result of name){
+//     console.log(result);
+// };
 
 
 
