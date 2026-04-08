@@ -834,7 +834,10 @@
 //     console.log(value);
 // };
 
-
+const time = [10,56];
+for(let value of time){
+    console.log(value);
+};
 
 
 
