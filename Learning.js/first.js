@@ -829,10 +829,11 @@
 
 // Practicing:-
 
-let arr = [4,5,6,7,8,9,0];
-for(let value of arr){
-    console.log(value);
-};
+// let arr = [4,5,6,7,8,9,0];
+// for(let value of arr){
+//     console.log(value);
+// };
+
 
 
 
