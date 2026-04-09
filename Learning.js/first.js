@@ -850,6 +850,11 @@
 //     console.log(city.toUpperCase());
 // };
 
+let data = ["NAME", "AGE", "STATE", "COUNTRY"];
+for(let output of data){
+    console.log(output.toLowerCase());
+};
+
 
 
 
