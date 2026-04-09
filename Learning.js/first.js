@@ -857,9 +857,9 @@
 
 
 
-let arr = [5,6,7,2,9];
-arr.sort();
-console.log(arr);
+// let arr = [5,6,7,2,9];
+// arr.sort();
+// console.log(arr);
 
 
 
