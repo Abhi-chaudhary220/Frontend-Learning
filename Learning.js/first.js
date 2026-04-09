@@ -861,16 +861,16 @@
 // console.log(arr);
 
 
-let arr = [85, 97, 44, 37, 76, 60];
+// let arr = [85, 97, 44, 37, 76, 60];
 
-let sum = 0;
-for (let value of arr){
-    sum += value;
+// let sum = 0;
+// for (let value of arr){
+//     sum += value;
     
-};
+// };
 
-let avg = sum / arr.length;
-console.log(avg);
+// let avg = sum / arr.length;
+// console.log(avg);
 
 
 
