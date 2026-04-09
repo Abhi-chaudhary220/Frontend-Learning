@@ -880,15 +880,15 @@
 // QUESTION:-
 
 
-let elements = [250, 645, 300, 900, 50];
-let offer = 0;
-let result = 0;
-for(let items of elements){
-    offer = items / 10;
-    result = items -offer;
-    console.log(result);
+// let elements = [250, 645, 300, 900, 50];
+// let offer = 0;
+// let result = 0;
+// for(let items of elements){
+//     offer = items / 10;
+//     result = items -offer;
+//     console.log(result);
 
-};
+// };
 
 
 
