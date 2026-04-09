@@ -845,10 +845,10 @@
 // };
 
 
-let cities = ["hyderabad", "gurugram", "delhi", "mumbai", "chennai"];
-for (let city of cities){
-    console.log(city.toUpperCase());
-};
+// let cities = ["hyderabad", "gurugram", "delhi", "mumbai", "chennai"];
+// for (let city of cities){
+//     console.log(city.toUpperCase());
+// };
 
 
 
