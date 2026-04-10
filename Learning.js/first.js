@@ -894,6 +894,10 @@
 // arr.push(10);
 // console.log(arr);
 
+let arr = [5,6,7,8,9,10,1];
+arr.pop(1);
+console.log(arr);
+
 
 
 
