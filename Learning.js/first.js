@@ -914,9 +914,9 @@
 // arr.unshift("HI");
 // console.log(arr);
 
-let array = [`hello`, `how`, `are`, `you`, `miss`];
-array.shift(`hello`);
-console.log(array);
+// let array = [`hello`, `how`, `are`, `you`, `miss`];
+// array.shift(`hello`);
+// console.log(array);
 
 
 
