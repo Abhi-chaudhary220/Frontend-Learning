@@ -910,6 +910,10 @@
 // result = arr.concat(arr_2, arr_3);
 // console.log(result);
 
+let arr = ["hello", 12, "chlo", 76];
+arr.unshift("HI");
+console.log(arr);
+
 
 
 
