@@ -932,6 +932,14 @@
 // let result = arr.splice(1, 2, "hifi");
 // console.log(arr);
 
+// QUESTION:-
+
+// First question:- 
+
+let company_name = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
+let result = company_name.slice(1,6);
+console.log(result);
+
 
 
 
