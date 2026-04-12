@@ -940,6 +940,8 @@
 // let result = company_name.slice(1,6);
 // console.log(result);
 
+// Second question:-
+
 
 
 
