@@ -924,9 +924,14 @@
 
 // Practicing:-
 
-let arr = [1,2,3,4,5,6];
-let res = arr.slice(1,3);
-console.log(res);
+// let arr = [1,2,3,4,5,6];
+// let res = arr.slice(1,3);
+// console.log(res);
+
+let arr = ["hello", "how", "are", "you"];
+let result = arr.splice(1, 2, "hifi");
+console.log(arr);
+
 
 
 
