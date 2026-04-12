@@ -942,6 +942,10 @@
 
 // Second question:-
 
+let company_name = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
+let result = company_name.splice(2,1,"OLA");
+console.log(company_name);
+
 
 
 
