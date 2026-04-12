@@ -936,9 +936,9 @@
 
 // First question:- 
 
-// let company_name = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
-// let result = company_name.slice(1,6);
-// console.log(result);
+let company_name = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
+let result = company_name.shift();
+console.log(company_name);
 
 // Second question:-
 
