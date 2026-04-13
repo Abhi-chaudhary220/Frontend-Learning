@@ -970,11 +970,11 @@
 
 // Starting reduce :-
 
-let arr3 = [1, 30, 40, 50, 60];
-let result3 = arr3.reduce((output) => {
-    return output + output ;
-});
-console.log(result3);
+// let arr3 = [1, 30, 40, 50, 60];
+// let result3 = arr3.reduce((output) => {
+//     return output + output ;
+// });
+// console.log(result3);
 
 
 
