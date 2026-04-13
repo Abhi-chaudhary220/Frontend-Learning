@@ -950,7 +950,9 @@
 // let res = company_name.push("Amazon");
 // console.log(company_name);
 
-// console.log("today learning is done");
+// console.log("today learning is done"); 
+
+Starting array - Map, filter, reduce:-
 
 
 
