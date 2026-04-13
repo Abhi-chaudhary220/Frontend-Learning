@@ -953,13 +953,15 @@
 // console.log("today learning is done"); 
 
 
-// Starting array - Map, filter, reduce:-
+// Starting array - Map :-
 
 // let arr = [10,20,5,30,4,50,2,70,8,90,3];
 // let result = arr.map((a) => {
 //     console.log(a*3);
 //     });
-    
+
+Starting array - Filter :-
+
 
 
 
