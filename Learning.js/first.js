@@ -962,11 +962,11 @@
 
 // Starting array - Filter :-
 
-let arr2 = [1,20,3,30,4,40,5,50];
-let result2 = arr2.filter((value) =>{
-    return value<10
-    });
-console.log(result2);
+// let arr2 = [1,20,3,30,4,40,5,50];
+// let result2 = arr2.filter((value) =>{
+//     return value<10
+//     });
+// console.log(result2);
 
 
 
