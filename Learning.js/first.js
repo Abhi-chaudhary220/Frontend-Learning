@@ -968,7 +968,7 @@
 //     });
 // console.log(result2);
 
-Starting reduce :-
+// Starting reduce :-
 
 
 
