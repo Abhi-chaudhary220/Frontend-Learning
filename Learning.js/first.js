@@ -956,10 +956,11 @@
 // Starting array - Map, filter, reduce:-
 
 let arr = [10,20,5,30,4,50,2,70,8,90,3];
-let result = arr.map(function(a)) => {
-    return a<10;
-};
-console.log(result);
+let result = arr.map((a) => {
+    console.log(a*3);
+    });
+    
+
 
 
 
