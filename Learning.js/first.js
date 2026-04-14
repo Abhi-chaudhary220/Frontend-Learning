@@ -986,8 +986,8 @@
 // let arr2 = [6,7,8,9,10];
 // console.log(arr2);
 
-let arr3 = [11, 12, 13, 14, 15];
-console.log(arr3);
+// let arr3 = [11, 12, 13, 14, 15];
+// console.log(arr3);
 
 
 
