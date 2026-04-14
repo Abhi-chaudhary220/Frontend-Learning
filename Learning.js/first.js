@@ -992,6 +992,8 @@
 // let arr4 = [16, 17, 18, 19, 20];
 // console.log(arr4);
 
+Todays practice is done tomorrow ill start js function and methods :-
+
 
 
 
