@@ -977,7 +977,7 @@
 // console.log(result3);
 
 
-Making fun with array :-
+// Making fun with array :-
 
 
 
