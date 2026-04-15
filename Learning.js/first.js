@@ -996,6 +996,8 @@
 
 // Here i go for new practice :-
 
+console.log(alert);
+
 
 
 
