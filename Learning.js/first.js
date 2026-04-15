@@ -994,7 +994,7 @@
 
 // Todays practice is done tomorrow ill start js function and methods :-
 
-
+Here i go for new practice :-
 
 
 
