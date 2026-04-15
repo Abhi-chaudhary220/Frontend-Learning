@@ -1002,6 +1002,9 @@
 
 // console.log("there is only few topics are left in js");
 
+console.log("after js i ll start react");
+
+
 
 
 
