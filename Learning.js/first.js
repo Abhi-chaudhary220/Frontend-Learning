@@ -996,7 +996,7 @@
 
 // Here i go for new practice :-
 
-console.log(alert);
+// console.log(alert);
 
 
 
