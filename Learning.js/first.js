@@ -1006,7 +1006,7 @@
 
 // console.log("after react i ll start tailwind, bootsrap, typescript");
 
-Today practice is done and from tomorrow i ll start js functions topic:-
+// Today practice is done and from tomorrow i ll start js functions topic:-
 
 
 
