@@ -1004,6 +1004,9 @@
 
 // console.log("after js i ll start react");
 
+console.log("after react i ll start tailwind, bootsrap, typescript");
+
+
 
 
 
