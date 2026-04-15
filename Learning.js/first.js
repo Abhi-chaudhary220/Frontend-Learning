@@ -1000,7 +1000,7 @@
 
 // console.log("Hello World");
 
-console.log("there is only few topics are left in js");
+// console.log("there is only few topics are left in js");
 
 
 
