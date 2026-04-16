@@ -1012,7 +1012,7 @@
 
 // console.log("js functions");
 
-console.log("js arrays completed");
+// console.log("js arrays completed");
 
 
 
