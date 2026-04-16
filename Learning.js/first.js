@@ -1008,6 +1008,8 @@
 
 // Today practice is done and from tomorrow i ll start js functions topic:-
 
+console.log("hello");
+
 
 
 
