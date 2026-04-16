@@ -1020,6 +1020,11 @@
 
 // console.log("js datatypes and variables topic completed");
 
+console.log("js all previous topics are completed");
+
+
+
+
 
 
 
