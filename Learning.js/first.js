@@ -1018,7 +1018,7 @@
 
 // console.log("js operators and conditional statements topic completed");
 
-console.log("js datatypes and variables topic completed");
+// console.log("js datatypes and variables topic completed");
 
 
 
