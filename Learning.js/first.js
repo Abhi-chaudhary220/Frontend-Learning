@@ -1016,7 +1016,7 @@
 
 // console.log("js loops completed");
 
-console.log("js operators and conditional statements topic completed");
+// console.log("js operators and conditional statements topic completed");
 
 
 
