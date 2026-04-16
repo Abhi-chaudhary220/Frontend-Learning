@@ -1022,7 +1022,7 @@
 
 // console.log("js all previous topics are completed");
 
-today session is completed.
+// today session is completed.
 
 
 
