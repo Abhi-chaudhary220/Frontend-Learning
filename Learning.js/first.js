@@ -1010,7 +1010,9 @@
 
 // console.log("hello");
 
-console.log("js functions");
+// console.log("js functions");
+
+
 
 
 
