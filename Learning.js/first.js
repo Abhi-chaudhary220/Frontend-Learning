@@ -1014,6 +1014,10 @@
 
 // console.log("js arrays completed");
 
+console.log("js loops completed");
+
+
+
 
 
 
