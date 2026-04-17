@@ -1054,6 +1054,7 @@ let string = (a, b) => {
     return combine;
 };
 string("hello", "bye");
+console.log(combine);
 
 
 
