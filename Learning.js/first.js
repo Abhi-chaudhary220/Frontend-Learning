@@ -1031,10 +1031,10 @@
 // };
 // num(5,95);
 
-function Num(a,b){
-    console.log(a-b);
-};
-Num(7,5);
+// function Num(a,b){
+//     console.log(a-b);
+// };
+// Num(7,5);
 
 
 
