@@ -1026,6 +1026,13 @@
 
 // lets start function topic in js.
 
+function num(a,b){
+    console.log(a+b);
+};
+num(5,95);
+
+
+
 
 
 
