@@ -1044,6 +1044,12 @@
 // console.log(division
 
 
+const num = (x,y)=>{
+console.log(x+y);
+};
+num(5,5);
+
+
 
 
 
