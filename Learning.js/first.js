@@ -1024,6 +1024,8 @@
 
 // today session is completed.
 
+lets start function topic in js.
+
 
 
 
