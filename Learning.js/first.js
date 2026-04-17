@@ -1049,12 +1049,12 @@
 // };
 // num(5,5);
 
-let string = (a, b) => {
-    let combine = a + b;
-    return combine;
-};
-string("hello", "bye");
-console.log(combine);
+// let string = (a, b) => {
+//     let combine = a + b;
+//     return combine;
+// };
+// string("hello", "bye");
+// console.log(combine);
 
 
 
