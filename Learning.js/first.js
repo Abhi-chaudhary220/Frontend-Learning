@@ -1068,6 +1068,28 @@
 
 
 
+// 1st option for writing this code;
+
+
+let count_vowels = (strings)=>{
+    let count = 0;
+    for(let value of strings){
+    if (value === "a" || value ==="e" || value === "i" || value === "o" || value ==="u") {count++;}}
+    console.log(count);
+}
+count_vowels("hello i m Abhishek Chaudhary");
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
