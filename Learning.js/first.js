@@ -1057,6 +1057,14 @@
 // console.log(sum);
 
 
+let glad = (y,j)=>{
+    sub = (y-j);
+    return sub;
+    
+};
+glad(100,99.99);
+console.log(sub);
+
 
 
 
