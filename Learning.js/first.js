@@ -1049,12 +1049,12 @@
 // };
 // num(5,5);
 
-let string = (a, b) => {
-    sum = a + " "+ b;
-    return sum;
-};
-string("hello","bye");
-console.log(sum);
+// let string = (a, b) => {
+//     sum = a + " "+ b;
+//     return sum;
+// };
+// string("hello","bye");
+// console.log(sum);
 
 
 
