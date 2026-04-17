@@ -1049,12 +1049,15 @@
 // };
 // num(5,5);
 
-// let string = (a, b) => {
-//     let combine = a + b;
-//     return combine;
-// };
-// string("hello", "bye");
-// console.log(combine);
+let string = (a, b) => {
+    sum = a + " "+ b;
+    return sum;
+};
+string("hello","bye");
+console.log(sum);
+
+
+
 
 
 
