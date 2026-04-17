@@ -1026,10 +1026,15 @@
 
 // lets start function topic in js.
 
-function num(a,b){
-    console.log(a+b);
+// function num(a,b){
+//     console.log(a+b);
+// };
+// num(5,95);
+
+function Num(a,b){
+    console.log(a-b);
 };
-num(5,95);
+Num(7,5);
 
 
 
