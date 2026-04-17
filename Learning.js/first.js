@@ -1083,19 +1083,19 @@
 // 2nd option for writing this same code;
 
 
-let count_vowel = (strings)=>{
-    let count = 0;
-    for(let value of strings){
-        if(value === "a"  ||
-            value === "e" ||
-            value === "i" ||
-            value === "o" ||
-            value === "u")
-            {count++;}
-    }
-    return count;
-}
-console.log(count_vowel("Abhishek Chaudhary"));
+// let count_vowel = (strings)=>{
+//     let count = 0;
+//     for(let value of strings){
+//         if(value === "a"  ||
+//             value === "e" ||
+//             value === "i" ||
+//             value === "o" ||
+//             value === "u")
+//             {count++;}
+//     }
+//     return count;
+// }
+// console.log(count_vowel("Abhishek Chaudhary"));
 
 
 
