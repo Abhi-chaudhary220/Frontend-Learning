@@ -1036,6 +1036,13 @@
 // };
 // Num(7,5);
 
+function division(a,b){
+    result = division(a/b);
+    return result;
+};
+division(4,2);
+console.log(division);
+
 
 
 
