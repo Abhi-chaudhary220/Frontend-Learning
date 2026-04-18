@@ -1097,7 +1097,7 @@
 // }
 // console.log(count_vowel("Abhishek Chaudhary"));
 
-Now i will start function methods:-
+// Now i will start function methods:-
 
 
 
