@@ -1107,6 +1107,8 @@
 
 // console.log("str");
 
+console.log("array");
+
 
 
 
