@@ -1101,6 +1101,8 @@
 
 // Hey there i m just practicing some builtin functions:-
 
+console.log(function);
+
 
 
 
