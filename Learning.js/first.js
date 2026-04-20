@@ -1109,7 +1109,9 @@
 
 // console.log("array");
 
-// console.log("bye");
+// console.log("time to go");
+
+console.log("bye");
 
 
 
