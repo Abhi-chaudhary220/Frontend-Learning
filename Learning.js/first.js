@@ -1134,13 +1134,13 @@
 
 // price(99.99,95.99);
 
-let hours_deduction = (h1,h2)=>{
-    result = h1-h2;
-    console.log(result);
-    return result;
-};
+// let hours_deduction = (h1,h2)=>{
+//     result = h1-h2;
+//     console.log(result);
+//     return result;
+// };
 
-hours_deduction(10,6);
+// hours_deduction(10,6);
 
 
 
