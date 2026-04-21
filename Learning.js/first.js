@@ -1113,12 +1113,12 @@
 
 // console.log("bye");
 
-function str(h1,h2){
-    result = h1 + h2;
-    console.log(h1+" "+h2);
-    return result;
-}
-str("hello","world");
+// function str(h1,h2){
+//     result = h1 + h2;
+//     console.log(h1+" "+h2);
+//     return result;
+// }
+// str("hello","world");
 
 
 
