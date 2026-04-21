@@ -1143,6 +1143,11 @@
 // hours_deduction(10,6);
 
 
+let arr = [1,2,3,4,5,6,7,8];
+arr.forEach(function my(val){
+    console.log(val);
+});
+
 
 
 
