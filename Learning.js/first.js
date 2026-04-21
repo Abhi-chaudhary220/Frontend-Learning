@@ -1125,6 +1125,15 @@
 // };
 // good(5,10);
 
+const price = (a,b)=>{
+    result = (a-b);
+    console.log(result);
+    return result;
+
+};
+
+price(99.99,95.99);
+
 
 
 
