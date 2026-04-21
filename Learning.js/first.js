@@ -1120,6 +1120,11 @@
 // }
 // str("hello","world");
 
+function good(a,b){
+    console.log(a+b);
+};
+good(5,10);
+
 
 
 
