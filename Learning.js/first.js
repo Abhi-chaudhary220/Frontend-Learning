@@ -1168,7 +1168,7 @@
 
 // console.log("are u ok");
 
-console.log("quadcore");
+// console.log("quadcore");
 
 
 
