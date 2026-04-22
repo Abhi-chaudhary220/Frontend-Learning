@@ -1170,7 +1170,7 @@
 
 // console.log("quadcore");
 
-console.log("Bye");
+// console.log("Bye");
 
 
 
