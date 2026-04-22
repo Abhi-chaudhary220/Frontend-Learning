@@ -1160,7 +1160,7 @@
 // Practice Question:-
 
 
-
+console.log("hello");
 
 
 
