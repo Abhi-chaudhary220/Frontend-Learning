@@ -1170,6 +1170,8 @@
 
 // console.log("quadcore");
 
+console.log("Bye");
+
 
 
 
