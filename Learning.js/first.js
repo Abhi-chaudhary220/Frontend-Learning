@@ -1168,6 +1168,8 @@
 
 // console.log("are u ok");
 
+console.log("quadcore");
+
 
 
 
