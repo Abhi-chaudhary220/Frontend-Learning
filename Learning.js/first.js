@@ -1208,6 +1208,16 @@
 // yha console.log ko bahr se access isliye kr parha hu kyuki block joki global h usme map function ko maine ek variable me store kra dia h jisse usko main call kr skta hu block k bahr se bhi.
 
 
+let num = [1,2,3,4,5,6];
+num.map((val)=>{
+let result = val+1;
+console.log(result);
+return result;
+});
+
+
+
+
 
 
 
