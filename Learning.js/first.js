@@ -1198,6 +1198,17 @@
 
 
 
+let num = [1,2,3,4,5,6];
+let arr = num.map((val)=>{
+let result = val+1;
+return result;
+});
+console.log(arr);
+
+
+
+
+
 
 
 
