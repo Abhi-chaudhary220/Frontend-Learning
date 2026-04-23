@@ -1215,7 +1215,7 @@
 // return result;
 // });
 
-yha bahr se console,log access krne me error isliye arha h because maine map function ko kisi variable me store nhi kraya isliye usko main bahr se call nhi kr skta.
+// yha bahr se console,log access krne me error isliye arha h because maine map function ko kisi variable me store nhi kraya isliye usko main bahr se call nhi kr skta.
 
 
 
