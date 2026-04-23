@@ -1205,7 +1205,7 @@
 // });
 // console.log(arr);
 
-yha console.log ko bahr se access isliye kr parha hu kyuki block joki global h usme map function ko maine ek variable me store kra dia h jisse usko main call kr skta hu block k bahr se bhi.
+// yha console.log ko bahr se access isliye kr parha hu kyuki block joki global h usme map function ko maine ek variable me store kra dia h jisse usko main call kr skta hu block k bahr se bhi.
 
 
 
