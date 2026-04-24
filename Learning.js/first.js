@@ -1231,6 +1231,14 @@
 //     return val>5;
 // });
 
+// Method-2:-
+
+let arr1 = [2,3,4,5,6,7];
+let arr2 = arr1.filter((val)=>{
+    return val>5;
+});
+console.log(arr2);
+
 
 
 
