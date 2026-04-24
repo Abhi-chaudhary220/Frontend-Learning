@@ -1242,11 +1242,11 @@
 
 // Reduce:-
 
-let arr1 = [3,4,5,6,7,8,9];
-let arr2 = arr1.reduce((value, presentVal)=>{
-    return value + presentVal 
-},0);
-console.log(`final value is = ${arr2}`);
+// let arr1 = [3,4,5,6,7,8,9];
+// let arr2 = arr1.reduce((value, presentVal)=>{
+//     return value + presentVal 
+// },0);
+// console.log(`final value is = ${arr2}`);
 
 
 
