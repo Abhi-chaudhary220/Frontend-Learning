@@ -1223,13 +1223,13 @@
 
 // Method-1:-
 
-let arr1 = [2,3,4,5,6,7];
-arr1.filter((val)=>{
-    if(val>5){
-        console.log(val);
-    }
-    return val>5;
-});
+// let arr1 = [2,3,4,5,6,7];
+// arr1.filter((val)=>{
+//     if(val>5){
+//         console.log(val);
+//     }
+//     return val>5;
+// });
 
 
 
