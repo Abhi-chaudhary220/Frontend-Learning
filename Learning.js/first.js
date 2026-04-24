@@ -1240,6 +1240,9 @@
 // console.log(arr2);
 
 
+// Reduce:-
+
+
 
 
 
