@@ -1251,6 +1251,8 @@
 
 // just some consoles for typing practice:-
 
+console.log;
+
 
 
 
