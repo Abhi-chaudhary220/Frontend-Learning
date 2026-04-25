@@ -1249,7 +1249,7 @@
 // console.log(`final value is = ${arr2}`);
 
 
-just some consoles for typing practice:-
+// just some consoles for typing practice:-
 
 
 
