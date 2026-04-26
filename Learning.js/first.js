@@ -1237,11 +1237,11 @@
 
 // Description:- Iss method me maine console.log ko bahr isliye likha ya pass kia because blockscope me filter method ko ek new variable me store krvaya h jisse uss variable ko main globally access kr skta hu and koi error bhi nhi aaega.
 
-let arr1 = [2,3,4,5,6,7];
-let new_array = arr1.filter((val)=>{
-    return val>5;
-});
-console.log(new_array);
+// let arr1 = [2,3,4,5,6,7];
+// let new_array = arr1.filter((val)=>{
+//     return val>5;
+// });
+// console.log(new_array);
 
 
 // Reduce:-
