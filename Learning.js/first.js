@@ -1223,6 +1223,8 @@
 
 // Method-1:-
 
+Description:- Iss method me maine filter vale method ko kisi variable me store nhi kia h isliye mujhe output k liye console.log ko blockscope k andr he likhna hoga kyuki agr blockscope se bahr likhunga to js error return krdega ki ______ is not defined.
+
 // let arr1 = [2,3,4,5,6,7];
 // arr1.filter((val)=>{
 //     if(val>5){
