@@ -1242,7 +1242,7 @@
 
 // Reduce:-
 
-Definition - Reduce method ka mtlb hota hai li ek array ko compress krke ya daily basisk tone me bole to ek array ko nichor kr ek single value me convert krna or ye same to same fruit juice jaisa he h - bohot sare fruits ko nichorkr ek juice bnana.
+// Definition - Reduce method ka mtlb hota hai li ek array ko compress krke ya daily basisk tone me bole to ek array ko nichor kr ek single value me convert krna or ye same to same fruit juice jaisa he h - bohot sare fruits ko nichorkr ek juice bnana.
 
 // let arr1 = [3,4,5,6,7,8,9];
 // let arr2 = arr1.reduce((value, presentVal)=>{
