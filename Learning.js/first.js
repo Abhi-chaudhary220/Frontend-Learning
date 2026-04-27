@@ -1267,7 +1267,7 @@
 
 
 
-
+Starting DOM:- DOM stands for Document Object Model.
 
 // window.console.log(window.document.body.childNodes[1,2]);
 
