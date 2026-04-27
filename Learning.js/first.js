@@ -1269,6 +1269,8 @@
 
 
 
+window.console.log(window.document.body.childNodes[1,2]);
+
 
 
 
