@@ -1272,7 +1272,7 @@
 
 // There`s an window named object in js in which there a list of all types of information includes - strings, functions, text, number, boolean, etc.
 
-
+The document is also an object and basically it is a model of html page.
 
 // window.console.log(window.document.body.childNodes[1,2]);
 
