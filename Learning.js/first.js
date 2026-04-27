@@ -1270,7 +1270,7 @@
 // Starting DOM:- DOM stands for Document Object Model.
 
 
-There`s an window named object in js in which there a list of all types of information includes - strings, functions, text, number, boolean, etc.
+// There`s an window named object in js in which there a list of all types of information includes - strings, functions, text, number, boolean, etc.
 
 
 
