@@ -1278,7 +1278,7 @@
 
 
 
-document.getElementById("first").style.color = "red";
+// document.getElementById("first").style.color = "red";
 
 
 
