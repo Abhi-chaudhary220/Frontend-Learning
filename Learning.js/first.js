@@ -1283,6 +1283,11 @@
 
 
 
+document.getElementById("second").innerText = "hello there i m learning js dom methods";
+document.getElementById("second").style.color = "aqua";
+
+
+
 
 
 
