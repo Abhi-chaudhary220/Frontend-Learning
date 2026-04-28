@@ -1282,6 +1282,7 @@
 // document.getElementById("first").style.color = "red";
 
 
+// Iss code me ya fir .getElementById method me ek time pe only ek element ko access kr skte h and if one more elements ko access krna h to again dom method use krke access kro.
 
 // document.getElementById("second").innerText = "hello there i m learning js dom methods";
 // document.getElementById("second").style.color = "aqua";
