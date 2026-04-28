@@ -1277,6 +1277,7 @@
 // window.console.log(window.document.body.childNodes[1,2]);
 
 
+// Iss code me maine dom k by id method ka use krke uss text k color ko change kia h.
 
 // document.getElementById("first").style.color = "red";
 
