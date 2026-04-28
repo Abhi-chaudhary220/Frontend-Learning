@@ -1289,6 +1289,7 @@
 
 
 
+// Iss code me maine id ki styling style file yaani css file me kri h and js se uss webpage ko access krke text change kia h.
 
 // document.getElementById("One").innerText = "i m chnagint the style by writing code in css file";
 
