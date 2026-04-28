@@ -1290,7 +1290,7 @@
 
 
 
-document.getElementById("One").innerText = "i m chnagint the style by writing code in css file";
+// document.getElementById("One").innerText = "i m chnagint the style by writing code in css file";
 
 
 
