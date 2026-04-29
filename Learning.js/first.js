@@ -1312,6 +1312,7 @@
 // song[0].style.color = "red";
 
 
+// By method second -
 // const song = document.getElementsByClassName("bhojpuri");
 // for (let i = 0; i < song.length; i++) {
 //     song[i].style.color = "red";
