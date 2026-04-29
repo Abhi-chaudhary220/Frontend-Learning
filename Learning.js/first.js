@@ -1308,8 +1308,8 @@
 
 
 
-const song = document.getElementsByClassName("bhojpuri");
-song[0].style.color = "red";
+// const song = document.getElementsByClassName("bhojpuri");
+// song[0].style.color = "red";
 
 
 
