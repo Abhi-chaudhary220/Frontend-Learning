@@ -1300,7 +1300,8 @@
 // console.log(class_1);
 
 
-In this code using class name to find elements and changing the color of text.
+// In this code using class name to find elements and changing the color of text.
+
 // let class_2 = document.getElementsByClassName("second");
 // console.log(class_2);
 // class_2[0].style.color = "yellow";
