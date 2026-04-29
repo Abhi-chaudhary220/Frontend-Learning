@@ -1307,7 +1307,7 @@
 // class_2[0].style.color = "yellow";
 
 
-
+// By method one - 
 // const song = document.getElementsByClassName("bhojpuri");
 // song[0].style.color = "red";
 
