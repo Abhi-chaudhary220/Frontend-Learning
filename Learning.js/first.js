@@ -1319,6 +1319,7 @@
 // };
 
 
+// By method third -
 // const song = [...document.getElementsByClassName("bhojpuri")];
 // song.forEach(function(value) {
 //     value.style.color = "green";
