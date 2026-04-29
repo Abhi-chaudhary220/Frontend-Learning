@@ -1319,13 +1319,13 @@
 // };
 
 
-const song = [...document.getElementsByClassName("bhojpuri")];
-song.forEach(function(value) {
-    value.style.color = "green";
-    console.dir(value);
-    return value;
+// const song = [...document.getElementsByClassName("bhojpuri")];
+// song.forEach(function(value) {
+//     value.style.color = "green";
+//     console.dir(value);
+//     return value;
     
-});
+// });
 
 
 
