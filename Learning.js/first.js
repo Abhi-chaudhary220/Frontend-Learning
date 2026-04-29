@@ -1295,6 +1295,11 @@
 
 
 
+const class_1 = document.getElementsByClassName("first");
+console.log(class_1);
+
+
+
 
 
 
