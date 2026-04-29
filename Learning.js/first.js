@@ -1294,7 +1294,7 @@
 // document.getElementById("One").innerText = "i m chnagint the style by writing code in css file";
 
 
-
+In this js code finding elements by class name.
 // const class_1 = document.getElementsByClassName("first");
 // console.log(class_1);
 
