@@ -1298,9 +1298,9 @@
 // const class_1 = document.getElementsByClassName("first");
 // console.log(class_1);
 
-let class_2 = document.getElementsByClassName("second");
-console.log(class_2);
-class_2[0].style.color = "yellow";
+// let class_2 = document.getElementsByClassName("second");
+// console.log(class_2);
+// class_2[0].style.color = "yellow";
 
 
 
