@@ -1328,8 +1328,8 @@
     
 // });
 
-const changing_background = document.getElementsByClassName("bhojpuri");
-changing_background[0].style.backgroundColor = "red";
+// const changing_background = document.getElementsByClassName("bhojpuri");
+// changing_background[0].style.backgroundColor = "red";
 
 
 
