@@ -1328,6 +1328,9 @@
     
 // });
 
+
+
+Iss code me maine socha k iske phle elements ko access krne k liye to mujhe [0] use krna pdega pr fir maine socha [1] bhi use kru ye asa socha maine because ,ujhe lga k [],[] ye words ko kehte h mtlb ek text me 10 words h to usme 10 elements h main asa sochts ==a tha but wrong tha element mtlb hota h ek class me ek element, ek id se ek element.
 // const changing_background = document.getElementsByClassName("bhojpuri");
 // changing_background[0].style.backgroundColor = "red";
 
