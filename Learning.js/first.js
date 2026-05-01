@@ -1348,7 +1348,7 @@
 // document.querySelectorAll = ye vala method use krke hm element ko dhundh skte h by its CSS selector, and isme hme collection milta h elements ka.
 
 
-
+// That`s all for now.
 
 
 
