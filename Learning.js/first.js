@@ -1335,6 +1335,9 @@
 // changing_background[0].style.backgroundColor = "red";
 
 
+// Some descriptions of DOM methods:-
+
+
 
 
 
