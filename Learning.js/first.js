@@ -1337,7 +1337,9 @@
 
 // Some descriptions of DOM methods:-
 
-// document.getElementById = ye vala method use krke hm element ko dhundh skte h by its ID.
+// document.getElementById = ye vala method use krke hm element ko dhundh skte h by its ID, and isme hme single element milta h.
+
+document.getElementsByClassName = ye vala method use krke hm element ko dhundh skte h by its class name, and isme hme collection milta h elements ka.
 
 
 
