@@ -1343,7 +1343,7 @@
 
 // document.getElementsByTagName = ye vala method use krke hm element ko dhundh skte h by its tag name, and isme hme collection milta h elements ka.
 
-document.querySelector = ye vala method use krke hm element ko dhundh skte h by its CSS selector, and isme hme single element milta h.
+// document.querySelector = ye vala method use krke hm element ko dhundh skte h by its CSS selector, and isme hme single element milta h.
 
 
 
