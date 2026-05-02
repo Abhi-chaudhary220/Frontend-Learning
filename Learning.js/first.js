@@ -1363,6 +1363,15 @@
 // console.dir(element_by_tag);
 
 
+const paragraph_collection = document.querySelectorAll("p");
+paragraph_collection.forEach(function(value){
+    value.style.color = "blue";
+    value.style.fontWeight = "bold";
+    console.dir(value);
+    return value;
+});
+
+
 
 
 
