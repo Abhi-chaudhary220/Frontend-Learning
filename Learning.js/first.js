@@ -1374,7 +1374,7 @@
 // });
 
 
-Iss code me maine by query selector method use kia h jisse maine elements ko find kia and unke styling me changes kia. Yha pe mujhe sirf ek element hi mila kyuki query selector method se mujhe single element hi milta h.
+// Iss code me maine by query selector method use kia h jisse maine elements ko find kia and unke styling me changes kia. Yha pe mujhe sirf ek element hi mila kyuki query selector method se mujhe single element hi milta h.
 
 // const query_selector = document.querySelector("h5");
 // query_selector.style.color = "red";
