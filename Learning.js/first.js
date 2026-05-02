@@ -1373,8 +1373,8 @@
 //     return value;
 // });
 
-const query_selector = document.querySelector("h5");
-query_selector.style.color = "red";
+// const query_selector = document.querySelector("h5");
+// query_selector.style.color = "red";
 
 
 
