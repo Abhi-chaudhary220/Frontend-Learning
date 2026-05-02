@@ -1351,6 +1351,10 @@
 // That`s all for now.
 
 
+
+Iss code me maine by tag method use kia h jisse main elements ko find kr skta hu by their tag name and usme various methods se changes kr skta hu for ex- given below by for loop.
+
+
 // const element_by_tag = document.getElementsByTagName("p");
 // for(let i=0; i<element_by_tag.length; i++){
 //     element_by_tag[i].style.color = "brown";
