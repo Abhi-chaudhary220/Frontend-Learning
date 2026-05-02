@@ -1362,7 +1362,7 @@
 // };
 // console.dir(element_by_tag);
 
-Iss code me maine by query selectorALL method use kia h jisse maine elements ko find kia and forEach method use krke unke styling me changes kia.
+// Iss code me maine by query selectorALL method use kia h jisse maine elements ko find kia and forEach method use krke unke styling me changes kia.
 
 
 // const paragraph_collection = document.querySelectorAll("p");
@@ -1372,6 +1372,8 @@ Iss code me maine by query selectorALL method use kia h jisse maine elements ko 
 //     console.dir(value);
 //     return value;
 // });
+
+
 
 
 
