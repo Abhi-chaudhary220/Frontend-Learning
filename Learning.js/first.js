@@ -1352,7 +1352,7 @@
 
 
 
-Iss code me maine by tag method use kia h jisse main elements ko find kr skta hu by their tag name and usme various methods se changes kr skta hu for ex- given below by for loop.
+// Iss code me maine by tag method use kia h jisse main elements ko find kr skta hu by their tag name and usme various methods se changes kr skta hu for ex- given below by for loop.
 
 
 // const element_by_tag = document.getElementsByTagName("p");
