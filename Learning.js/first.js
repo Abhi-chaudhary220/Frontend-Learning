@@ -1351,12 +1351,12 @@
 // That`s all for now.
 
 
-const element_by_tag = document.getElementsByTagName("p");
-for(let i=0; i<element_by_tag.length; i++){
-    element_by_tag[i].style.color = "brown";
+// const element_by_tag = document.getElementsByTagName("p");
+// for(let i=0; i<element_by_tag.length; i++){
+//     element_by_tag[i].style.color = "brown";
     
-};
-console.dir(element_by_tag);
+// };
+// console.dir(element_by_tag);
 
 
 
