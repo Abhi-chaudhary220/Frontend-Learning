@@ -1384,10 +1384,16 @@
 
 
 // In this code i m finding element by tag name and assigning into new variable.
+
 // let element_by_tag = document.getElementsByTagName("p");
 // let new_element = element_by_tag[0];
 // new_element.style.color = "pink";
 // console.dir(new_element);
+
+
+FOR Revision:-
+
+1. document.getElementById = ye vala method use krke hm element ko dhundh skte h by its id.
 
 
 
