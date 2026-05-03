@@ -1395,6 +1395,7 @@
 
 // 1. document.getElementById = ye vala method use krke hm element ko dhundh skte h by its id.
 
+2. document.getElementsByClassName = ye vala method use krke hm element ko dhundh skte h by its class name.
 
 
 
