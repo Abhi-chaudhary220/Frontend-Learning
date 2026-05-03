@@ -1391,9 +1391,9 @@
 // console.dir(new_element);
 
 
-FOR Revision:-
+// FOR Revision:-
 
-1. document.getElementById = ye vala method use krke hm element ko dhundh skte h by its id.
+// 1. document.getElementById = ye vala method use krke hm element ko dhundh skte h by its id.
 
 
 
