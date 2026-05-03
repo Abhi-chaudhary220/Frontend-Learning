@@ -1382,6 +1382,11 @@
 
 // Practicing by tag name method:-
 
+let element_by_tag = document.getElementsByTagName("p");
+let new_element = element_by_tag[0];
+new_element.style.color = "pink";
+console.dir(new_element);
+
 
 
 
