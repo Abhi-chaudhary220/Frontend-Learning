@@ -1380,7 +1380,7 @@
 // query_selector.style.color = "red";
 
 
-Practicing by tag name method:-
+// Practicing by tag name method:-
 
 
 
