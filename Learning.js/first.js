@@ -1382,6 +1382,8 @@
 
 // Practicing by tag name method:-
 
+
+In this code i m finding element by tag name and assigning into new variable.
 // let element_by_tag = document.getElementsByTagName("p");
 // let new_element = element_by_tag[0];
 // new_element.style.color = "pink";
