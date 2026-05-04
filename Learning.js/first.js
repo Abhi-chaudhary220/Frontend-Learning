@@ -1400,7 +1400,10 @@
 // 3. document.getElementsByTagName = ye vala method use krke hm element ko dhundh skte h by its tag name.
 
 
-
+let allEl = document.querySelectorAll("h1, h2");
+allEl.forEach(element => {
+    element.style.color = "red";
+});
 
 
 
