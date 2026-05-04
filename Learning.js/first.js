@@ -1419,6 +1419,10 @@
 // let El = document.querySelectorAll("h1");
 // El[1].style.color = "Red";
 
+let elements = document.querySelector("h1");
+elements.style.color = "blue";
+elements.style.fontSize = "50px";
+elements.style.textAlign = "center";
 
 
 
