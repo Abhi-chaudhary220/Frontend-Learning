@@ -1408,11 +1408,12 @@
 //     element.style.color = "red";
 // });
 
+// Iss code ko maine excecute krne k liye for of loop kia h.
 
-let El = document.querySelectorAll("h1, h2");
-for (let val of El){
-    val.style.color = "brown";
-};
+// let El = document.querySelectorAll("h1, h2");
+// for (let val of El){
+//     val.style.color = "brown";
+// };
 
 
 
