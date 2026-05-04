@@ -1439,14 +1439,14 @@
 
 // Just practicing for in loop.
 
-let user = {
-    name : "Abhishek",
-    age : 20,
-    is_learning_js : true
-};
-for (let key in user){
-    console.log(key + ": " + user[key]);
-};
+// let user = {
+//     name : "Abhishek",
+//     age : 20,
+//     is_learning_js : true
+// };
+// for (let key in user){
+//     console.log(key + ": " + user[key]);
+// };
 
 
 
