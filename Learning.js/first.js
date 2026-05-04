@@ -1426,9 +1426,10 @@
 // elements.style.fontSize = "50px";
 // elements.style.textAlign = "center";
 
+// Iss code me maine background color change kia h single element ka.
 
-const el = document.querySelector("h1");
-el.style.backgroundColor = "green";
+// const el = document.querySelector("h1");
+// el.style.backgroundColor = "green";
 
 
 
