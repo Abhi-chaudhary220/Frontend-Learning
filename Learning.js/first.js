@@ -1416,8 +1416,8 @@
 // };
 
 
-let El = document.querySelectorAll("h1");
-El[1].style.color = "Red";
+// let El = document.querySelectorAll("h1");
+// El[1].style.color = "Red";
 
 
 
