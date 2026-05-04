@@ -1409,6 +1409,10 @@
 // });
 
 
+let El = document.querySelectorAll("h1, h2");
+for (let val of El){
+    val.style.color = "brown";
+};
 
 
 
