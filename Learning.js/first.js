@@ -1427,7 +1427,8 @@
 // elements.style.textAlign = "center";
 
 
-
+const el = document.querySelector("h1");
+el.style.backgroundColor = "green";
 
 
 
