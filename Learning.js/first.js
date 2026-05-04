@@ -1430,9 +1430,10 @@
 
 // const el = document.querySelector("h1");
 // el.style.backgroundColor = "green";
+// Iss code me maine single element ka background ko turquoise color me change kia h.
 
-const el = document.querySelector("h1");
-el.style.backgroundColor = "turquoise";
+// const el = document.querySelector("h1");
+// el.style.backgroundColor = "turquoise";
 
 
 
