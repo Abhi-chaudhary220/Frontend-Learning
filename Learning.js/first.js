@@ -1439,6 +1439,8 @@
 
 // Just practicing for in loop.
 
+Iss code me maine for in loop us kia h and ye objects k liye use kia jata h and isme jo loop k variable ka naam hota h usi name ko use krke object k key k values ko access kr skte h.
+
 // let user = {
 //     name : "Abhishek",
 //     age : 20,
