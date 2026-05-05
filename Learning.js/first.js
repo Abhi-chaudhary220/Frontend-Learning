@@ -1470,10 +1470,10 @@
 // let html = document.querySelector("#para");
 // let new_html = html.innerHTML = "<h1>Hello JS</h1>";
 
-This is similar like innerText property but seperate advantage is that by help of this property we can find the hidden elements too.
+// This is similar like innerText property but seperate advantage is that by help of this property we can find the hidden elements too.
 
-let content = document.querySelector("#para");
-let new_content = content.textContent;
+// let content = document.querySelector("#para");
+// let new_content = content.textContent;
 
 
 
