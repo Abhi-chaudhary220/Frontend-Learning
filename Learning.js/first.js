@@ -1451,6 +1451,12 @@
 // };
 
 
+// Finding out tags in elements:-
+
+// let byTag = document.getElementById("#para2");
+
+
+
 
 
 
