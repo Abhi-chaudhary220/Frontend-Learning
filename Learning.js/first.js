@@ -1462,6 +1462,14 @@
 // let c = changingText.innerText = "Wow its totally wonderful";
 // console.log(c);
 
+// Changing innerhtml of the element by innerHtml property:-
+
+// let html = document.querySelector("#para");
+// let new_html = html.innerHTML = "<h1>Hello JS</h1>";
+//  OR
+// let html = document.querySelector("#para");
+// let new_html = html.innerHTML = "<h1>Hello JS</h1>";
+
 
 
 
