@@ -1456,6 +1456,11 @@
 // let byTag = document.getElementById("#para2");
 
 
+// Changing text of elements by innerText property:-
+
+// let changingText = document.querySelector("#para");
+// let c = changingText.innerText = "Wow its totally wonderful";
+// console.log(c);
 
 
 
