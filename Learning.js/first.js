@@ -1524,7 +1524,8 @@
 // const el = document.querySelector(".fifth");
 // el.remove();
 
-
+// const new_el = document.querySelector(".One");
+// console.log(new_el.getAttribute("type"));
 
 
 
