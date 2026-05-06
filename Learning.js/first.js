@@ -1509,7 +1509,14 @@
 // new_el.querySelector("button").style.backgroundColor = "yellow";
 // new_el.querySelector("button").style.border = "2px solid pink";
 
+// Iss code me maine element ko outside in down side me rkhne k liye after use kia h.
 
+// const el = document.querySelector(".fourth");
+// const El = document.createElement("p");
+// El.innerHTML = "<button>Tap me</button>"
+// el.after(El);
+// document.querySelector("button").style.backgroundColor = "lime";
+// document.querySelector("button").style.color = "white";
 
 
 
