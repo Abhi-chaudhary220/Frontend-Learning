@@ -1476,8 +1476,19 @@
 // let new_content = content.textContent;
 
 
+// Learning js insert element methods:-
 
+// Iss code me maine append nethod use krke new element ko old element k andr assign krvaya h
+// const insert = document.querySelector(".first");
+// const newEl = document.createElement("p");
 
+// function insertelement(){
+// insert.appendChild(newEl);
+// newEl.innerText = "This is new element which is inserted by using js insert element method";
+// insert.style.color = "red";
+// newEl.style.fontStyle = "italic";
+// };
+// insertelement();
 
 
 
