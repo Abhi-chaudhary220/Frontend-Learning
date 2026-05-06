@@ -1519,6 +1519,10 @@
 // document.querySelector("button").style.color = "white";
 
 
+// Iss code me maine element ko remove krne k liye remove method ka use kia h.
+
+// const el = document.querySelector(".fifth");
+// el.remove();
 
 
 
