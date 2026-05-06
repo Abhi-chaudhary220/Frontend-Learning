@@ -1527,6 +1527,9 @@
 // const new_el = document.querySelector(".One");
 // console.log(new_el.getAttribute("type"));
 
+// let new_element = document.querySelector(".two");
+// console.log(new_element.getAttribute("type"));
+
 
 
 
