@@ -1535,6 +1535,8 @@
 // let new_element = document.querySelector(".two");
 // console.log(new_element.getAttribute("type"));
 
+Now i'll start second attribute method.
+
 
 
 
