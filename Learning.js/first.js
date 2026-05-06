@@ -1491,9 +1491,12 @@
 // insertelement();
 
 
+// Iss code me maine node k andr up side me element add krne k liye prepend method use kia h.
 
-
-
+// const neEle = document.querySelector(".second");
+// const newEl = document.createElement("text");
+// newEl.innerText = "I m learning inserting elements method. ";
+// neEle.prepend(newEl);
 
 
 
