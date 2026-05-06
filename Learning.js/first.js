@@ -1530,6 +1530,8 @@
 // const new_el = document.querySelector(".One");
 // console.log(new_el.getAttribute("type"));
 
+Iss code me maine getAttribute method he use kia h but iska output null isliye aya bcz jis attribute ko main access kr rha tha vo sub-container me tha not in tha main container.
+
 // let new_element = document.querySelector(".two");
 // console.log(new_element.getAttribute("type"));
 
