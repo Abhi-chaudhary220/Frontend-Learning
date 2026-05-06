@@ -1499,6 +1499,17 @@
 // neEle.prepend(newEl);
 
 
+// Iss code me maine element ko outside the node in upper side me rkhne k liye before inserting method ka use kia h.
+
+// const el = document.querySelector(".third");
+// const new_el = document.createElement("span");
+// new_el.innerHTML = "<button> Click me </button>"
+// el.before(new_el);
+// new_el.querySelector("button").style.color = "red";
+// new_el.querySelector("button").style.backgroundColor = "yellow";
+// new_el.querySelector("button").style.border = "2px solid pink";
+
+
 
 
 
