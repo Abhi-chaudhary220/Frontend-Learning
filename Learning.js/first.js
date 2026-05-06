@@ -1525,7 +1525,7 @@
 // el.remove();
 
 
-Iss code me maine getAttribute method use kia h element ka attribute value pta lgane k liye.
+// Iss code me maine getAttribute method use kia h element ka attribute value pta lgane k liye.
 
 // const new_el = document.querySelector(".One");
 // console.log(new_el.getAttribute("type"));
