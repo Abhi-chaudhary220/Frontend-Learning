@@ -1573,3 +1573,5 @@
 
 // classList method me different methods h like - remove joki class ko removekrne k liye use kia jata h.
 
+// classList.add method use krte vqt hme class ko access nhi krna hme element k tag ko access krna h.
+
