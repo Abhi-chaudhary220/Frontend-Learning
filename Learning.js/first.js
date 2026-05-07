@@ -1538,5 +1538,13 @@
 // Now i'll start second attribute method.
 
 
+// Iss code me maine attributes ko change krne k liye setAttribute method use kia h jisse main new attribute as per my reference de skta hu and this code is more optimized as compare to this - ( if i make new variable to store el then i ll break DRY principle and that new variable is not that much as needed ) that's why i write logic and because of that lines of code decreases and less memory usage.
+
+// let el = document.querySelector(".one");
+// el.setAttribute("type", "string");
+// console.log(el);
+
+
+
 
 
