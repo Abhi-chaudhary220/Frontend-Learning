@@ -1565,5 +1565,7 @@
 
 // classList method tb use krte hai jb koi nyi class purani vali me add krni ho.
 
+// classList method se koi bhi old class ki styling ko bina overwrite kiye usme new styling append kr skte hai.
+
 
 
