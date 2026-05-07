@@ -1563,5 +1563,7 @@
 // const New = document.querySelector("h2");
 // New.classList.add("new_el");
 
+// classList method tb use krte hai jb koi nyi class purani vali me add krni ho.
+
 
 
