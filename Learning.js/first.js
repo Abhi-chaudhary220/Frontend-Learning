@@ -1560,6 +1560,8 @@
 // New_Attr.setAttribute("type", "h3 tag");
 // console.log(New_Attr);
 
+// Iss code me maine classList method use kia h jisse main elements ko find kr skta hu and usme new class add kr skta hu.
+
 // const New = document.querySelector("h2");
 // New.classList.add("new_el");
 
