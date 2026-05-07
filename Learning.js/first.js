@@ -1560,8 +1560,8 @@
 // New.setAttribute("type", "h3 tag");
 // console.log(New);
 
-const New = document.querySelector("h2");
-New.classList.add("new_el");
+// const New = document.querySelector("h2");
+// New.classList.add("new_el");
 
 
 
