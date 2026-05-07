@@ -1577,4 +1577,4 @@
 
 // document.querySelector(".one"); Access element by class name.
 
-document.getElementById("first"); Access element by id.
+// document.getElementById("first"); Access element by id.
