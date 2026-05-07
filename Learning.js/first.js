@@ -1576,3 +1576,5 @@
 // classList.add method use krte vqt hme class ko access nhi krna hme element k tag ko access krna h.
 
 // document.querySelector(".one"); Access element by class name.
+
+document.getElementById("first"); Access element by id.
