@@ -1553,8 +1553,8 @@
 
 // Practicing getAttribute method.
 
-// const New_el = document.querySelector(".two");
-// console.log(New_el.getAttribute("type"));
+// const New_element = document.querySelector(".two");
+// console.log(New_element.getAttribute("type"));
 
 // const New_Attr = document.querySelector(".third");
 // New_Attr.setAttribute("type", "h3 tag");
