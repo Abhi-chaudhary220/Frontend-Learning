@@ -1544,7 +1544,10 @@
 // el.setAttribute("type", "string");
 // console.log(el);
 
+// Second example of setAttribute method.
 
-
+// const setArr = document.querySelector(".first");
+// setArr.setAttribute("type", "Unordered list");
+// console.log(setArr);
 
 
