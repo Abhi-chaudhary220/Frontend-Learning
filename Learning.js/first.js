@@ -1551,3 +1551,10 @@
 // console.log(setArr);
 
 
+// Practicing getAttribute method.
+
+// const New_el = document.querySelector(".two");
+// console.log(New_el.getAttribute("type"));
+
+
+
