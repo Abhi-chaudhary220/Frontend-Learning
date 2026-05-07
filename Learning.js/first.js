@@ -1556,9 +1556,9 @@
 // const New_el = document.querySelector(".two");
 // console.log(New_el.getAttribute("type"));
 
-// const New = document.querySelector(".third");
-// New.setAttribute("type", "h3 tag");
-// console.log(New);
+// const New_Attr = document.querySelector(".third");
+// New_Attr.setAttribute("type", "h3 tag");
+// console.log(New_Attr);
 
 // const New = document.querySelector("h2");
 // New.classList.add("new_el");
