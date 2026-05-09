@@ -1615,6 +1615,6 @@
 
 let new_Element = document.createElement(".button");
 let btn1 = document.querySelector(".button");
-btn.ondblclick = () => {
+btn1.ondblclick = () => {
     console.log("You double clicked the button");
 };
