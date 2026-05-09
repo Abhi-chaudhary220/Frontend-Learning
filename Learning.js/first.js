@@ -1602,6 +1602,8 @@
 
 // };
 
+Practicing onclick event.
+
 // let para = document.querySelector("p");
 // para.onclick = () => {
 //     console.log("You're reading the paragraph");
