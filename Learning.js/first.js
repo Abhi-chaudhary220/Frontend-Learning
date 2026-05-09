@@ -1585,3 +1585,13 @@
 // response.onclick = () => {
 //     console.log("You successfully clicked the button");
 // };
+
+// let success = document.querySelector("p");
+// success.onclick = () => {
+//     alert("Click the button");
+// };
+// let btn = document.querySelector("button");
+// btn.onclick = () => {
+//     console.log("Congrats now you'll get success very soon");
+
+// };
