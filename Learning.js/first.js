@@ -1613,8 +1613,10 @@
 
 // There's a third event called mouseover which is used for mouse over an element then it will occur the event.
 
-let new_Element = document.createElement(".button");
-let btn1 = document.querySelector(".button");
-btn1.ondblclick = () => {
-    console.log("You double clicked the button");
-};
+// let new_Element = document.createElement("div");
+// new_Element.innerHTML = "<button>Click me</button>";
+// document.body.append(new_Element);
+
+// new_Element.ondblclick = () => {
+//     console.log("You double clicked the button");
+// };
