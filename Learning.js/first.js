@@ -1608,3 +1608,5 @@
 // para.onclick = () => {
 //     console.log("You're reading the paragraph");
 // };
+
+// There's a second event called ondblclick which is used for double clicking an element then it will occur the eventt.
