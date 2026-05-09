@@ -1589,6 +1589,9 @@
 //     console.log("You successfully clicked the button");
 // };
 
+
+// Iss code me bhi maine onclick event ko he use kia h bcz main onclick event ki practice kr rha hu and iss code me first click pe ek alert event create hota h then second click pe info event create hota h.
+
 // let success = document.querySelector("p");
 // success.onclick = () => {
 //     alert("Click the button");
