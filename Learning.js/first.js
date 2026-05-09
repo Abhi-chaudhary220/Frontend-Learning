@@ -1611,6 +1611,8 @@
 
 // There's a second event called ondblclick which is used for double clicking an element then it will occur the eventt.
 
+// There's a third event called mouseover which is used for mouse over an element then it will occur the event.
+
 let Element = document.createElement(".button");
 let btn = document.querySelector(".button");
 btn.ondblclick = () => {
