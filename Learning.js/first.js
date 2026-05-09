@@ -1602,7 +1602,7 @@
 
 // };
 
-Practicing onclick event.
+// Practicing onclick event.
 
 // let para = document.querySelector("p");
 // para.onclick = () => {
