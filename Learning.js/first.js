@@ -1578,3 +1578,10 @@
 // document.querySelector(".one"); Access element by class name.
 
 // document.getElementById("first"); Access element by id.
+
+// Learning Events types :-
+
+// let response = document.querySelector("button");
+// response.onclick = () => {
+//     console.log("You successfully clicked the button");
+// };
