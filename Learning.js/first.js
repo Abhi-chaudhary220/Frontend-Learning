@@ -1595,3 +1595,8 @@
 //     console.log("Congrats now you'll get success very soon");
 
 // };
+
+// let para = document.querySelector("p");
+// para.onclick = () => {
+//     console.log("You're reading the paragraph");
+// };
