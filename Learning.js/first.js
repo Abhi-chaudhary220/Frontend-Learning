@@ -1610,3 +1610,9 @@
 // };
 
 // There's a second event called ondblclick which is used for double clicking an element then it will occur the eventt.
+
+let Element = document.createElement(".button");
+let btn = document.querySelector(".button");
+btn.ondblclick = () => {
+    console.log("You double clicked the button");
+};
