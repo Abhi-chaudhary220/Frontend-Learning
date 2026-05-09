@@ -1581,6 +1581,9 @@
 
 // Learning Events types :-
 
+
+// Iss code me maine event type k (onclick) event ko use kia h jisse main jb jb button ko click krunga to mera event occur hoga.
+
 // let response = document.querySelector("button");
 // response.onclick = () => {
 //     console.log("You successfully clicked the button");
