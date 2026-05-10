@@ -1631,7 +1631,7 @@
 // };
 
 // There is a onmouseover event.
-There is a target event.
+// There is a target event.
 
 let identifyEvent = document.querySelector("p");
 identifyEvent.onmouseover = () => {
