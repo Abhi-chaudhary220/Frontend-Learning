@@ -1623,6 +1623,8 @@
 
 // Practice mouseover event:-
 
+// In this code i m using onmouseover event type by which when i entered in the div then event occurs.
+
 // let new_el = document.querySelector("div");
 // new_el.onmouseover = () => {
 //     console.log("you entered in the div element");
