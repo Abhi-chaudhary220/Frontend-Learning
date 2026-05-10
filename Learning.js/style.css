@@ -75,3 +75,12 @@
     color: brown;
     border: 2px solid black;
 }; */
+
+p{
+    height: 120px;
+    width: 120px;
+    padding: 20px;
+    background-color: aqua;
+    color: brown;
+    border: 2px solid black;
+};

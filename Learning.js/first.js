@@ -1629,3 +1629,10 @@
 // new_el.onmouseover = () => {
 //     console.log("you entered in the div element");
 // };
+
+There is a onmouseover event.
+
+let identifyEvent = document.querySelector("p");
+identifyEvent.onmouseover = () => {
+    console.log(onmouseover.type);
+};
