@@ -1630,7 +1630,7 @@
 //     console.log("you entered in the div element");
 // };
 
-There is a onmouseover event.
+// There is a onmouseover event.
 
 let identifyEvent = document.querySelector("p");
 identifyEvent.onmouseover = () => {
