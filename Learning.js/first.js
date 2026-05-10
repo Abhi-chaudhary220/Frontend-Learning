@@ -1632,7 +1632,8 @@
 
 // There is a onmouseover event.
 // There is a target event.
-// There is a clientx event.
+// There is a clientX event.
+There is a clientY event.
 
 let identifyEvent = document.querySelector("p");
 identifyEvent.onmouseover = () => {
