@@ -1620,3 +1620,10 @@
 // new_Element.ondblclick = () => {
 //     console.log("You double clicked the button");
 // };
+
+// Practice mouseover event:-
+
+let new_el = document.querySelector("div");
+new_el.onmouseover = () => {
+    console.log("you entered in the div element");
+};
