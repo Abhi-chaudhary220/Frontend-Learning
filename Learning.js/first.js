@@ -1635,7 +1635,7 @@
 // There is a clientX event.
 // There is a clientY event.
 
-let identifyEvent = document.querySelector("p");
-identifyEvent.onmouseover = () => {
+let identifyEvent1 = document.querySelector("p");
+identifyEvent1.onmouseover = () => {
     console.log(onmouseover.type);
 };
