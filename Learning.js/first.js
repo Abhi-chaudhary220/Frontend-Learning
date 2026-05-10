@@ -1635,7 +1635,15 @@
 // There is a clientX event.
 // There is a clientY event.
 
-let identifyEvent1 = document.querySelector("p");
-identifyEvent1.onmouseover = (evt) => {
-    console.log(evt.type);
-};
+// let identifyEvent1 = document.querySelector("p");
+// identifyEvent1.onmouseover = (evt) => {
+//     console.log(evt.type);
+// };
+
+
+// Practicing e object basically e is refer as event object and it contains all the information about event.
+
+// let identifyEvent1 = document.querySelector("p");
+// identifyEvent1.onmouseover = (evt) => {
+//     console.log(evt);
+// };
