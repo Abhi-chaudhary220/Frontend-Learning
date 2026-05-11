@@ -1681,3 +1681,10 @@
 // El.onmouseleave = (event12) => {
 //     console.dir(event12.clientX);
 // };
+
+
+
+// let El = document.querySelector("p");
+// El.onmouseleave = (event12) => {
+//     console.dir(event12.clientY);
+// };
