@@ -1668,6 +1668,7 @@
 //     console.dir(event12);
 // };
 
+// Iss code me maine same event type me dir ka use krte hue type identify kia h.
 
 // let Element = document.querySelector("p");
 // Element.onmouseleave = (event12) => {
