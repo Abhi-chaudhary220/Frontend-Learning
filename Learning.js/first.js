@@ -1653,3 +1653,9 @@
 // new_el.onmouseover = (hello) => {
 //     console.log(hello.type);
 // };
+
+
+// let el = document.querySelector("p");
+// el.onmouseleave = (event) => {
+//     console.log("hello bro");
+// };
