@@ -1688,3 +1688,6 @@
 // El.onmouseleave = (event12) => {
 //     console.dir(event12.clientY);
 // };
+
+
+// clientX is a event property which is used to find the horizontal postion of the element.
