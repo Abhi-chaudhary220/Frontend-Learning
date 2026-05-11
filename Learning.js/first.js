@@ -1654,8 +1654,10 @@
 //     console.log(hello.type);
 // };
 
+// Iss code me maine onmouseleave type event ka use kia h and isme main container k inside se outside k trf jitne bar jaunga utne bar mera event occur hoga.
 
 // let el = document.querySelector("p");
 // el.onmouseleave = (event) => {
 //     console.log("hello bro");
 // };
+
