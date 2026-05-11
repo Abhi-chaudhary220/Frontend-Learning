@@ -1682,7 +1682,7 @@
 //     console.dir(event12.clientX);
 // };
 
-
+// Iss code me maine event type k sath uss element ki position vertically find krne k liye clientX property use kia h.
 
 // let El = document.querySelector("p");
 // El.onmouseleave = (event12) => {
