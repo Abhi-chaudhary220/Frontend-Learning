@@ -1666,3 +1666,8 @@
 //     console.dir(event12);
 // };
 
+
+// let Element = document.querySelector("p");
+// Element.onmouseleave = (event12) => {
+//     console.dir(event12.type);
+// };
