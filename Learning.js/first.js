@@ -1661,6 +1661,8 @@
 //     console.log("hello bro");
 // };
 
+// Iss code me maine pnmouseleave event type k sath console.dir method use kia h jisse mouseleave event type ki complete information mere samne agyi.
+
 // let El = document.querySelector("p");
 // El.onmouseleave = (event12) => {
 //     console.dir(event12);
