@@ -1691,3 +1691,5 @@
 
 
 // clientX is a event property which is used to find the horizontal postion of the element.
+
+// clientY is a event property which is used to find the horizontal postion of the element.
