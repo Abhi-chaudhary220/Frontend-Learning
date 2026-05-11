@@ -1661,3 +1661,8 @@
 //     console.log("hello bro");
 // };
 
+// let El = document.querySelector("p");
+// El.onmouseleave = (event12) => {
+//     console.dir(event12);
+// };
+
