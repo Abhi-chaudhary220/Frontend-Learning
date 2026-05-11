@@ -1674,3 +1674,8 @@
 // Element.onmouseleave = (event12) => {
 //     console.dir(event12.type);
 // };
+
+// let El = document.querySelector("p");
+// El.onmouseleave = (event12) => {
+//     console.dir(event12.clientX);
+// };
