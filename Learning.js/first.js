@@ -1647,3 +1647,9 @@
 // identifyEvent1.onmouseover = (evt) => {
 //     console.log(evt);
 // };
+
+
+// const new_el = document.querySelector("p");
+// new_el.onmouseover = (hello) => {
+//     console.log(hello.type);
+// };
