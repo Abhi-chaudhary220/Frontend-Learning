@@ -1693,3 +1693,8 @@
 // clientX is a event property which is used to find the horizontal postion of the element.
 
 // clientY is a event property which is used to find the horizontal postion of the element.
+
+let el = document.querySelector("p");
+el.onclick = () => {
+    console.log("Hello");
+};
