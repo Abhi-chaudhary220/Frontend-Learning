@@ -1738,3 +1738,18 @@
 
 
 
+// let btn = document.querySelector("button");
+// let mode = "light";
+// btn.addEventListener("click", () => {
+//     if (mode === "light") {
+//         mode = "dark";
+//         document.body.style.backgroundColor = "black";
+//     } else {
+//         mode = "light";
+//         document.body.style.backgroundColor = "white";
+//     }
+// }); 
+
+
+
+
