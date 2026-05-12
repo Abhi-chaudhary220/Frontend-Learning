@@ -1736,7 +1736,7 @@
 //     document.body.style.backgroundColor = "black";
 // });
 
-
+// Method -1
 
 // let btn = document.querySelector("button");
 // let mode = "light";
