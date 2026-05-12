@@ -1701,3 +1701,6 @@
 // onclick event me jb bhi element pe click krenge to event handle hoga then occur hoga.
 
 
+const arr = [1,2,3,4,5,6,7,8,9,10];
+arr.shift();
+console.log(arr);
