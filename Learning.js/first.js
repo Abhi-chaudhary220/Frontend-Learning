@@ -1694,9 +1694,10 @@
 
 // clientY is a event property which is used to find the horizontal postion of the element.
 
-let el = document.querySelector("p");
-el.onclick = () => {
-    console.log("Hello");
-}; 
+// let el = document.querySelector("p");
+// el.onclick = () => {
+//     console.log("Hello");
+// }; 
+// onclick event me jb bhi element pe click krenge to event handle hoga then occur hoga.
 
 
