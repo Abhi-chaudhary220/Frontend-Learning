@@ -1724,3 +1724,7 @@
 // console.log(arr2);
 
 // Iss code me maine pop method use kia h jisse main elements k last index me se ek ek krke element delete kr skta hu.
+
+
+
+// Next i ll make a simple light and dark mode toggle button
