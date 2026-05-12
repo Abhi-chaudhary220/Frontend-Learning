@@ -1768,22 +1768,24 @@
 // }); 
 
 
-let btn = document.querySelector("#one");
-let mode = "light";
-btn.addEventListener("click", () => {
+// Iss code me maine transition property and some button chnaging color styles ka use kia h.
+
+// let btn = document.querySelector("#one");
+// let mode = "light";
+// btn.addEventListener("click", () => {
     
-    if (mode === "light") {
-        mode = "dark";
-        document.body.style.backgroundColor = "black";
-        one.style.backgroundColor = "red";
-        one.style.color = "white";
-        document.body.style.transition = "0.5s";
-    } else {
-        mode = "light";
-        document.body.style.backgroundColor = "white";
-        one.style.backgroundColor = "yellow";
-        one.style.color = "black";
-        document.body.style.transition = "0.5s";
-    }
-}); 
+//     if (mode === "light") {
+//         mode = "dark";
+//         document.body.style.backgroundColor = "black";
+//         one.style.backgroundColor = "red";
+//         one.style.color = "white";
+//         document.body.style.transition = "0.5s";
+//     } else {
+//         mode = "light";
+//         document.body.style.backgroundColor = "white";
+//         one.style.backgroundColor = "yellow";
+//         one.style.color = "black";
+//         document.body.style.transition = "0.5s";
+//     }
+// }); 
 
