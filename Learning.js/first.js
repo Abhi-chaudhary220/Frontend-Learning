@@ -1729,6 +1729,8 @@
 
 // Next i ll make a simple light and dark mode toggle button
 
+// Making dark mode button:-
+
 // let btn = document.querySelector("button");
 // btn.addEventListener("click", function(){
 //     document.body.style.backgroundColor = "black";
