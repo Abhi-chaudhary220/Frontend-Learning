@@ -1710,3 +1710,5 @@
 // const arr = [1,2,3,4,5,6,7,8,9,10];
 // arr.unshift(2,3,4,);
 // console.log(arr);
+
+// Iss code me maine unshift method use kia h jisse main elements me starting index me different number, strings add kr skta hu.
