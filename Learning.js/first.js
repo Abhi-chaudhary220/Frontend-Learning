@@ -1722,3 +1722,5 @@
 // const arr2 = [1,2,3,4,5,6,7,8,9,10];
 // arr2.pop();
 // console.log(arr2);
+
+// Iss code me maine pop method use kia h jisse main elements k last index me se ek ek krke element delete kr skta hu.
