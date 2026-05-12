@@ -1789,3 +1789,5 @@
 //     }
 // }); 
 
+
+// By addEventListener method we can add event listeners to elements.
