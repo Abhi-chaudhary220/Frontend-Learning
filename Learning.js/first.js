@@ -1808,3 +1808,18 @@
 
 // console.log(mathematical.num1);
 
+
+const fruit = {
+    potassium() {
+        console.log("Banana is a king of fruits");
+    }
+};
+
+const mango = {
+    lovely() {
+        console.log("every three persons from four loves mango");
+    }
+};
+
+mango.__proto__ = fruit;
+(mango.potassium());
