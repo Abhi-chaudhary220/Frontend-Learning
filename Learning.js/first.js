@@ -1794,4 +1794,9 @@
 
 // By removeEventListener method we can remove event listeners from elements.
 
+let integer = {
+    even : 2,
+    odd : 3
+}
+console.log(integer);
 
