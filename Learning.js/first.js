@@ -1795,8 +1795,16 @@
 // By removeEventListener method we can remove event listeners from elements.
 
 let integer = {
-    even : 2,
-    odd : 3
-}
-console.log(integer);
+    num1 : 2,
+    num2 : 3
+};
+
+const mathematical = {
+    num3 : 1,
+    num4 : 0
+    
+};
+// mathematical__proto__integer();
+
+console.log(integer.num3);
 
