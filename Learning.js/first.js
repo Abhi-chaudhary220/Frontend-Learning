@@ -1794,6 +1794,9 @@
 
 // By removeEventListener method we can remove event listeners from elements.
 
+
+// PROTOTYPE PROPERTY:-
+
 // let integer = {
 //     num1 : 2,
 //     num2 : 3
@@ -1809,17 +1812,17 @@
 // console.log(mathematical.num1);
 
 
-const fruit = {
-    potassium() {
-        console.log("Banana is a king of fruits");
-    }
-};
+// const fruit = {
+//     potassium() {
+//         console.log("Banana is a king of fruits");
+//     }
+// };
 
-const mango = {
-    lovely() {
-        console.log("every three persons from four loves mango");
-    }
-};
+// const mango = {
+//     lovely() {
+//         console.log("every three persons from four loves mango");
+//     }
+// };
 
-mango.__proto__ = fruit;
-(mango.potassium());
+// mango.__proto__ = fruit;
+// (mango.potassium());
