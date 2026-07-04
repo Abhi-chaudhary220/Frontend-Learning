@@ -1799,14 +1799,12 @@ let integer = {
     num2 : 3
 };
 
-let mathematical = {
+const mathematical = {
     num3 : 1,
     num4 : 0
     
 };
-// mathematical__proto__integer();
+mathematical.__proto__= integer;
 
-mathematical.setPrototypeof(integer);
-
-console.log(integer.num3);
+console.log(mathematical.num1);
 
