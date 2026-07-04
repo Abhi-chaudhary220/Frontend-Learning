@@ -1794,17 +1794,17 @@
 
 // By removeEventListener method we can remove event listeners from elements.
 
-let integer = {
-    num1 : 2,
-    num2 : 3
-};
+// let integer = {
+//     num1 : 2,
+//     num2 : 3
+// };
 
-const mathematical = {
-    num3 : 1,
-    num4 : 0
+// const mathematical = {
+//     num3 : 1,
+//     num4 : 0
     
-};
-mathematical.__proto__= integer;
+// };
+// mathematical.__proto__= integer;
 
-console.log(mathematical.num1);
+// console.log(mathematical.num1);
 
