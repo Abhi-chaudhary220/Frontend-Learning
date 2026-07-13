@@ -1827,4 +1827,13 @@
 // mango.__proto__ = fruit;
 // (mango.potassium());
 
+// let car = {
+//     msg1() {console.log("This is a car")}
+// };
+// let bmw = {
+//     msg : ()=>{console.log("a high performance car")}
+// };
+
+// bmw.__proto__ = car;
+// bmw.msg1();
 
