@@ -1837,3 +1837,18 @@
 // bmw.__proto__ = car;
 // bmw.msg1();
 
+// let samosa = {
+//     taste(){
+//         console.log("outstanding");
+//     }
+// };
+
+// let miniSamosa = {
+//     taste : function(){
+//         console.log("good"); when obj and proto has same method then obj method will get the priority.
+//     } 
+// };
+
+// miniSamosa.__proto__ = samosa;
+// miniSamosa.taste();
+
