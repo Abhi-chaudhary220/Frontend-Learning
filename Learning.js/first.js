@@ -1854,8 +1854,9 @@
 
 // class Tata {
 
-//     constructor(brand){
+//     constructor(brand, milege){
 //         this.brand = brand;
+//         this.milege = milege;
 //     }
 //     start(){
 //         console.log("can start");
@@ -1865,10 +1866,10 @@
 //     }
 // }
 
-// let nexon = new Tata("nexon");
+// let nexon = new Tata("nexon", 50);
 // nexon.start();
 // nexon.stop();
-// const tiago = new Tata("tiago");
+// const tiago = new Tata("tiago", 70);
 // tiago.start();
 // tiago.stop();
 
