@@ -1873,3 +1873,21 @@
 // tiago.start();
 // tiago.stop();
 
+// class Parent  {
+//     knowledge(){
+//         console.log("I am a parent");
+//     }
+// }
+
+// class Child extends Parent {
+//     basicKlg(){
+//         console.log("this is a child");
+//     }
+// }
+
+// let obj = new Child();
+// obj.knowledge();
+
+
+
+
