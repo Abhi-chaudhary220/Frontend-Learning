@@ -1888,6 +1888,28 @@
 // let obj = new Child();
 // obj.knowledge();
 
+// class vehicle {
+//     move(){
+//         console.log("can accerlate");
+//     }
 
+//     break(){
+//         console.log("can break");
+//     }
+// }
+
+// class car extends vehicle{
+//     canStart(){
+//         console.log("can start");
+//     }
+//     canStop(){
+//         console.log("can stop");
+//     }
+
+// }
+
+// let newObj = new car();
+// newObj.move();
+// newObj.break();
 
 
