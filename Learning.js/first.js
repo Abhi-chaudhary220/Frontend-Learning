@@ -1852,3 +1852,23 @@
 // miniSamosa.__proto__ = samosa;
 // miniSamosa.taste();
 
+// class Tata {
+
+//     constructor(brand){
+//         this.brand = brand;
+//     }
+//     start(){
+//         console.log("can start");
+//     }
+//     stop(){
+//         console.log("can stop");
+//     }
+// }
+
+// let nexon = new Tata("nexon");
+// nexon.start();
+// nexon.stop();
+// const tiago = new Tata("tiago");
+// tiago.start();
+// tiago.stop();
+
