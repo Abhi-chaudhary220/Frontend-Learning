@@ -1912,4 +1912,17 @@
 // newObj.move();
 // newObj.break();
 
+class alphabet {
+    constructor(){
+        console.log("hello this is a welcome msg");
+    }
+
+    ABC(){
+        console.log("this is a starting alphabets");
+    }
+}
+
+class letters extends alphabet{};
+let obj1 = new letters();
+obj1.ABC();  
 
