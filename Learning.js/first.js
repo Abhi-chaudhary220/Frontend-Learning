@@ -1975,7 +1975,25 @@
 // console.log(obj.view);
 
 
+class user {
+    name = "Abhishek";
+    email = "abhishek@gmail.com";
 
+    viewData(view) {
+        this.view = view;
+        
+    }
+};
+
+class admin extends user {
+    editData(view) {
+        this.view = view;
+    }
+};
+
+const obj1 = new admin();
+obj1.editData("Data");
+console.log(obj1.view);
 
 
 
