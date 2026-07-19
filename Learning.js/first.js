@@ -1975,29 +1975,34 @@
 // console.log(obj.view);
 
 
-class user {
-    name = "Abhishek";
-    email = "abhishek@gmail.com";
+// class user {
+//     name = "Abhishek";
+//     email = "abhishek@gmail.com";
 
-    viewData(view) {
-        this.view = view;
+//     viewData(view) {
+//         this.view = view;
         
-    }
-};
+//     }
+// };
 
-let obj = new user();
-obj.viewData("hello");
+// let obj = new user();
+// obj.viewData("hello");
 
 
 
 // class admin extends user {
 //     editData(view) {
 //         this.view = view;
+        
 //     }
 // };
 
 // const obj1 = new admin();
-// obj1.editData("Data");
+// obj1.editData("Data pack");
+// console.log(obj1.view);
+
+
+// obj1.viewData("wow"); phle obj1 se value push kia user me then obj1 se call kia
 // console.log(obj1.view);
 
 
