@@ -1985,15 +1985,20 @@ class user {
     }
 };
 
-class admin extends user {
-    editData(view) {
-        this.view = view;
-    }
-};
+let obj = new user();
+obj.viewData("hello");
 
-const obj1 = new admin();
-obj1.editData("Data");
-console.log(obj1.view);
+
+
+// class admin extends user {
+//     editData(view) {
+//         this.view = view;
+//     }
+// };
+
+// const obj1 = new admin();
+// obj1.editData("Data");
+// console.log(obj1.view);
 
 
 
