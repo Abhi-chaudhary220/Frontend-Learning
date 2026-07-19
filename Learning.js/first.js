@@ -1960,5 +1960,22 @@
 
 // Practice Questions :-
 
+// class user {
+//     name = "Abhishek";
+//     email = "abhishek@gmail.com";
+
+//     viewData(view) {
+//         this.view = view;
+        
+//     }
+// };
+
+// let obj = new user();
+// obj.viewData("data");
+// console.log(obj.view);
+
+
+
+
 
 
