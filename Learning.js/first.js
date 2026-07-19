@@ -1956,3 +1956,9 @@
 // const humanity = new boy("yes" , "ofcourse");
 // console.log(humanity.speak , humanity.type);
 
+
+
+// Practice Questions :-
+
+
+
