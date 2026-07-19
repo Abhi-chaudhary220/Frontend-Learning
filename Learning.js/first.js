@@ -1929,9 +1929,8 @@
 // To access parent class constructor through child class we use super() keyword.
 
 class human {
-    constructor(speak , tell) {
+    constructor(speak) {
         this.speak = speak;
-        this.tell = tell;
     }
 
     canTalk(){
