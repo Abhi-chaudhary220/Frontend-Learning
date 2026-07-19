@@ -1926,4 +1926,29 @@
 // let obj1 = new letters();
 // obj1.ABC();  
 
-// To access parent class constructor through child class we use super() keyword
+// To access parent class constructor through child class we use super() keyword.
+
+class human {
+    constructor() {
+        console.log("This shows top of the line");
+    }
+
+    canTalk(){
+        console.log("obviously");
+    }
+};
+
+class boy extends human{
+    constructor() {
+        super();
+        console.log("This is a child class");
+        
+    }
+    
+    speak(){
+        console.log("I m alive");
+    }
+};
+
+const humanity = new boy();
+humanity.constructor();
