@@ -1929,8 +1929,9 @@
 // To access parent class constructor through child class we use super() keyword.
 
 class human {
-    constructor(speak) {
+    constructor(speak , type) {
         this.speak = speak;
+        this.type = type;
     }
 
     canTalk(){
@@ -1941,8 +1942,8 @@ class human {
 
 class boy extends human{
     constructor(speak , tell) {
-        super(speak);
-        this.tell = tell;
+        super(speak , type);
+        this.type = type;
         
         
     }
@@ -1953,5 +1954,5 @@ class boy extends human{
 };
 
 const humanity = new boy("yes" , "ofcourse");
-console.log(humanity.speak , humanity.tell);
+console.log(humanity.speak , humanity.type);
 
