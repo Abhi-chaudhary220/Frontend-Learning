@@ -1926,3 +1926,4 @@
 // let obj1 = new letters();
 // obj1.ABC();  
 
+// To access parent class constructor through child class we use super() keyword
