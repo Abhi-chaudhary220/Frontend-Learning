@@ -1942,8 +1942,8 @@ class human {
 
 class boy extends human{
     constructor(speak , tell) {
-        this.tell = tell;
         super(speak);
+        this.tell = tell;
         
         
     }
@@ -1954,5 +1954,5 @@ class boy extends human{
 };
 
 const humanity = new boy("yes" , "ofcourse");
-console.log(humanity.speak);
+console.log(humanity.speak , humanity.tell);
 
