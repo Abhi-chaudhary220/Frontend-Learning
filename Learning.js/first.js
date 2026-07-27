@@ -2056,5 +2056,15 @@
 
 
 
+// Synchronous and Asynchronous programming :-
+
+// console.log("i m first");
+// setTimeout(() => {
+//     console.log("i m second")},3000);
+// console.log("i m third");
+
+
+
+
 
 
