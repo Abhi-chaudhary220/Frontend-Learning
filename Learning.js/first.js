@@ -2005,12 +2005,21 @@
 // obj1.viewData("wow"); phle obj1 se value push kia user me then obj1 se call kia
 // console.log(obj1.view);
 
-function checkAge(age) {
-if (age < 18) {
-    throw new Error("Access denied: You must be at least 18 years old.");
+// function checkAge(age) {
+// if (age < 18) {
+//     throw new Error("Access denied: You must be at least 18 years old.");
+// }
+// return true;
+// }
+// checkAge(17);
+// console.log(checkAge(17));
+
+function goodManner(manner) {
+    if(manner === "good") {
+        throw new Error("Good manners");
+    }
+    return true
 }
-return true;
-}
-checkAge(17);
-console.log(checkAge(17));
+goodManner("good");
+console.log(goodManner("good"));
 
