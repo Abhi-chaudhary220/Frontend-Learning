@@ -2027,6 +2027,7 @@
 
 // behaviour("good", goodManner);
 
+
 // const game = (player) => {
 //     if (player === "wow") {
 //         throw SyntaxError("wow is not a move or a game");
@@ -2040,7 +2041,18 @@
 
 // game2("wow", game);
 
+// function age(senior) {
+//     try {
+//         if(senior < 18) {
+//             throw new Error ("you are not ready to apply for dl");
+//         }
+//     }
+//     catch(e) {
+//         console.log(e);
 
+//     }
+// };
+// age(14);
 
 
 
