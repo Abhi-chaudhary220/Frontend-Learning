@@ -2027,6 +2027,20 @@
 
 // behaviour("good", goodManner);
 
+// const game = (player) => {
+//     if (player === "wow") {
+//         throw SyntaxError("wow is not a move or a game");
+//     }
+//     return true;
+// };
+
+// const game2 = (player, xyz) => {
+//     xyz(player);
+// };
+
+// game2("wow", game);
+
+
 
 
 
