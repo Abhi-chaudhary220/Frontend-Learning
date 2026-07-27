@@ -2071,18 +2071,22 @@
 // setTimeout(glad, 4000);
 
 
-// function iceCream(taste) {
-//     try {
-//         if (taste === "chocolate"){
-//             throw new Error("Ice cream is not available");
-//         }
-//     }
-//     catch(error) {
-//         console.log(error);
-//     }
-// };
 
-// iceCream("chocolate");
+function iceCream(taste) {
+    setTimeout((iceCream)=> {try {
+        if (taste === "chocolate"){
+            throw new Error("Ice cream is not available");
+        }
+    }
+    catch(error) {
+        console.log(error);
+    }},2000);
+};
+
+function toffee(taste, lolipop) {
+    lolipop(taste);
+};
+toffee("chocolate", iceCream);
 
 
 
