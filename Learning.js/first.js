@@ -2072,21 +2072,21 @@
 
 
 
-function iceCream(taste) {
-    setTimeout((iceCream)=> {try {
-        if (taste === "chocolate"){
-            throw new Error("Ice cream is not available");
-        }
-    }
-    catch(error) {
-        console.log(error);
-    }},2000);
-};
+// function iceCream(taste) {
+//     setTimeout((iceCream)=> {try {
+//         if (taste === "chocolate"){
+//             throw new Error("Ice cream is not available");
+//         }
+//     }
+//     catch(error) {
+//         console.log(error);
+//     }},2000);
+// };
 
-function toffee(taste, lolipop) {
-    lolipop(taste);
-};
-toffee("chocolate", iceCream);
+// function toffee(taste, lolipop) {
+//     lolipop(taste);
+// };
+// toffee("chocolate", iceCream); iss code me maine normal fn, async js, error handling, arrow fn,callback fn in sbhi concepts ka use kia hai.
 
 
 
