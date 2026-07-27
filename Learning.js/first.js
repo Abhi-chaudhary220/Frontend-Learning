@@ -2014,12 +2014,21 @@
 // checkAge(17);
 // console.log(checkAge(17));
 
-function goodManner(manner) {
-    if(manner === "good") {
-        throw new Error("Good manners");
-    }
-    return true
-}
-goodManner("good");
-console.log(goodManner("good"));
+// function goodManner(manner) {
+//     if(manner === "good") {
+//         throw new Error("Good manners is always good manners");
+//     }
+    
+// };
+
+// function behaviour(manner, myCallBack) {
+//     myCallBack(manner);
+// };
+
+// behaviour("good", goodManner);
+
+
+
+
+
 
