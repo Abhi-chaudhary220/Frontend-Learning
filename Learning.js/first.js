@@ -2071,6 +2071,20 @@
 // setTimeout(glad, 4000);
 
 
+// function iceCream(taste) {
+//     try {
+//         if (taste === "chocolate"){
+//             throw new Error("Ice cream is not available");
+//         }
+//     }
+//     catch(error) {
+//         console.log(error);
+//     }
+// };
+
+// iceCream("chocolate");
+
+
 
 
 
