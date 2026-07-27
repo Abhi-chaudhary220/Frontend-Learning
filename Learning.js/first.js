@@ -2086,7 +2086,9 @@
 // function toffee(taste, lolipop) {
 //     lolipop(taste);
 // };
-// toffee("chocolate", iceCream); iss code me maine normal fn, async js, error handling, arrow fn,callback fn in sbhi concepts ka use kia hai.
+// toffee("chocolate", iceCream); 
+// iss code me maine normal fn, async js, error handling, arrow fn,callback fn in sbhi concepts ka use kia hai.
+
 
 
 
