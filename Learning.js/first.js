@@ -2119,6 +2119,7 @@
 const alpha = ()=>{
     console.log("hello bro")
 };
+setTimeout(alpha, 3000);
 
 
 
