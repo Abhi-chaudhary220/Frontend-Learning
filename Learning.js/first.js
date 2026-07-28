@@ -2116,10 +2116,10 @@
 
 // world(40);
 
-const alpha = ()=>{
-    console.log("hello bro")
-};
-setTimeout(alpha, 3000);
+// const alpha = ()=>{
+//     console.log("hello bro")
+// };
+// setTimeout(alpha, 3000);
 
 
 
