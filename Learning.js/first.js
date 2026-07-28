@@ -2091,6 +2091,31 @@
 
 
 
+// function world(people) {  This is a n example of nested if else conditional statements.
+//     if(people > 10) {
+//         console.log("good");
+
+//         if(people > 20) {
+//         console.log("nice");
+//     }
+//     else {
+//         console.log("not nice");
+//     }
+//     if(people > 30) {
+//         console.log("wonderful");
+//     }
+//     else {
+//         console.log("not wonderful");
+//     }
+
+//     }
+//     else{console.log("not good");
+
+//     }
+// };
+
+// world(40);
+
 
 
 
