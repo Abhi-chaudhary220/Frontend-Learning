@@ -2116,9 +2116,8 @@
 
 // world(40);
 
-let abhi = {
-    a:10,
-    b:20,
+const alpha = ()=>{
+    console.log("hello bro")
 };
 
 
