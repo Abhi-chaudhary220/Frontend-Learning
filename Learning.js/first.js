@@ -2160,6 +2160,44 @@
 
 
 
+// nested callback hell:-
+
+// function dataSet(data, newdata) {
+//     setTimeout(()=>{
+//         console.log("data", data);
+//         if(newdata){
+//             newdata();
+//         }
+//     },1000);
+// };
+
+// dataSet(1, ()=>{
+//     dataSet(2, ()=>{
+//         dataSet(3, ()=>{
+
+//         })
+//     })
+// },); 
+
+// Practicing nested callback functions
+// function fruitList(healthy, tasty){
+//     setTimeout(()=>{
+//         console.log("healthy & tasty =", healthy);
+//         if(tasty){
+//             tasty();
+//         }
+//     },2000)
+// };
+
+// fruitList("mango", ()=>{
+//     fruitList("orange", ()=>{
+//         fruitList("banana", ()=>{
+
+//         })
+
+//     })
+// });
+
 
 
 
