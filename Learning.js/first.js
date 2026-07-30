@@ -2149,6 +2149,18 @@
 // };
 
 
+// function dataSet() {
+    
+//         setTimeout(()=>console.log("data", 1), 2000);
+//         setTimeout(()=>console.log("data", 2), 4000);
+//         setTimeout(()=>console.log("data", 3), 6000);
+
+// };
+// dataSet();
+
+
+
+
 
 
 
