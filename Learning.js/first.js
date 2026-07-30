@@ -2138,5 +2138,16 @@
 // };
 
 
+// for(let i=0; i<4; i++) {
+    
+//     let str = "";
+//     for(let j=0; j<2; j++) {
+//         str = str + j;
+        
+//     }
+//     console.log(i, str);
+// };
+
+
 
 
