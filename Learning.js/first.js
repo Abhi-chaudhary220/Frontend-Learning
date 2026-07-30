@@ -2126,6 +2126,17 @@
 // };
 // setTimeout(wonder, 4000);  
 
+// let i = 0;
+// for(let i=0; i<5; i++) {
+//     console.log("hello");
+//     for(let i=0; i<4; i++) {
+//         console.log("sir");
+//         for(i=0; i<3; i++) {
+//             console.log("good morning");
+//         }
+//     };
+// };
+
 
 
 
