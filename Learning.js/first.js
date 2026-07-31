@@ -2332,3 +2332,35 @@
 // })
 // });    Practicing.
 
+
+// function habbits(){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//         console.log("Wakeup Early");
+//         reject ("An Error Occured");
+
+//         },2000);
+//     })
+// };
+
+// function badhabbits(){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//             console.log("Sleep Late");
+//             reject ("Again An Error Occured");
+//         }, 4000);
+//     })
+// };
+
+// console.log("Fetching habbits");
+
+// habbits().catch((e)=>{
+//     console.log(e);
+
+// console.log("Fetching badhabbits");
+
+// badhabbits().catch((e)=>{
+//     console.log(e);
+// })
+// });
+
