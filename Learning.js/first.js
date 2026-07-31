@@ -2218,11 +2218,28 @@
 
 //     })
 
-// };
+// }; resolve type promise example.
+
+
 
 // let promise = new Promise ((resolve, reject)=>{
 
 // });
 // console.log(promise);
+
+
+// function happiness(laugh, enjoy) {
+//     return new Promise((resolve,reject)=>{
+//         setTimeout(()=>{
+//             // console.log("Your", laugh);
+//             reject("An error has occured");
+//             if(enjoy){
+//                 enjoy();
+//             }
+//         }, 7000);
+
+//     })
+
+// };       reject type promise example.
 
 
