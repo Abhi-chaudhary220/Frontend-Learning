@@ -2179,7 +2179,7 @@
 //     })
 // },); 
 
-// Practicing nested callback functions
+// Practicing nested callback hell functions
 // function fruitList(healthy, tasty){
 //     setTimeout(()=>{
 //         console.log("healthy & tasty =", healthy);
@@ -2197,6 +2197,8 @@
 
 //     })
 // });
+
+
 
 
 
