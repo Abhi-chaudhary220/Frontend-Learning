@@ -2243,3 +2243,28 @@
 // };       reject type promise example.
 
 
+// let game = ()=>{
+//     return new Promise((resolve, reject)=>{
+//         console.log("printed");
+//         resolve("success");
+
+//     })};
+// let promise = game()
+//     promise.then((res)=>{
+//         console.log("done");
+//     }); this is promise.then example code which means .then handles the success promise.
+
+// const buds = ()=>{
+//     return new Promise((resolve, reject)=>{
+//         console.log("printed");
+//         reject("error found");
+//     });
+// };
+
+// const promise = buds();
+// promise.catch((err)=>{
+//     console.log("error occured");
+// });
+
+
+
