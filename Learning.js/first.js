@@ -2180,6 +2180,7 @@
 // },); 
 
 // Practicing nested callback hell functions
+
 // function fruitList(healthy, tasty){
 //     setTimeout(()=>{
 //         console.log("healthy & tasty =", healthy);
@@ -2197,6 +2198,13 @@
 
 //     })
 // });
+
+
+
+// let men = new Promise((resolve, reject)=>{
+//     console.log("boy");
+//     return resolve("success");
+//     }); promise me teen conditions hoti h phli pending hona dusri reject hona teesri fulfilled hona.
 
 
 
