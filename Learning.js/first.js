@@ -2302,3 +2302,33 @@
 //     });      learning.
 
 
+// function toffees(){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//             console.log("Task 1");
+//             resolve ("Done");
+//         }, 2000);
+
+//     })
+// };
+
+// function toffees2(){
+//     return new Promise((resolve, reject)=>{
+//     setTimeout(()=>{
+//         console.log("Task 2");
+//         resolve("Done");
+//     },4000);
+
+//     })
+// };
+
+// console.log("fetching Task 1");
+// toffees().then((res)=>{
+//     console.log(res);
+// console.log("fetching Task 2");
+// toffees2().then((res)=>{
+//     console.log(res);
+
+// })
+// });    Practicing.
+
