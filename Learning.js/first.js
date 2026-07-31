@@ -2249,7 +2249,7 @@
 //         resolve("success");
 
 //     })};
-// let promise = game()
+// let promise = game();
 //     promise.then((res)=>{
 //         console.log("done");
 //     }); this is promise.then example code which means .then handles the success promise.
@@ -2264,7 +2264,41 @@
 // const promise = buds();
 // promise.catch((err)=>{
 //     console.log("error occured");
-// });
+// });   practicing promise.catch example code and .catch handles the error part.
 
+
+// function toys1(){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//         console.log("completed 1");
+//         resolve("success");
+
+//     },2000);
+// });
+//     };
+
+// function toys2(){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//         console.log("completed 2");
+//         resolve("success");
+
+//     },4000);
+// });
+//     };
+
+
+//     console.log("fetching data 1");
+//     let promise1 = toys1();
+//     promise1.then((res)=>{
+//         console.log(res);
+//     console.log("fetching data 2");
+//     let promise2 = toys2();
+//     promise2.then((res)=>{
+//             console.log(res);
+
+//         })
+
+//     });      learning.
 
 
