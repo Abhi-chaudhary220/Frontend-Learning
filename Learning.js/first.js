@@ -2206,9 +2206,19 @@
 //     return resolve("success");
 //     }); promise me teen conditions hoti h phli pending hona dusri reject hona teesri fulfilled hona.
 
+// function happiness(laugh, enjoy) {
+//     return new Promise((resolve,reject)=>{
+//         setTimeout(()=>{
+//             console.log("Your", laugh);
+//             resolve("wow");
+//             if(enjoy){
+//                 enjoy();
+//             }
+//         }, 7000);
 
+//     })
 
-
+// };
 
 
 
