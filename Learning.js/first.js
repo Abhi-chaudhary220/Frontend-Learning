@@ -2429,24 +2429,52 @@
 
 
 // Callback Hell
-function work(Timeline, Deadline){
-    setTimeout(()=>{
-        console.log("work done in =", Timeline);
-        if(Deadline){
-            Deadline();
-        }
+// function work(Timeline, Deadline){
+//     setTimeout(()=>{
+//         console.log("work done in =", Timeline);
+//         if(Deadline){
+//             Deadline();
+//         }
 
-    }, 2000);
-}
+//     }, 2000);
+// }
 
-function emergency(Timeline, urgent){
-    urgent(Timeline);
-};
-work("Less than time", ()=>{
-    work("On time", ()=>{
-        work("urgency")
-    });
-});
+// function emergency(Timeline, urgent){
+//     urgent(Timeline);
+// };
+// work("Less than time", ()=>{
+//     work("On time", ()=>{
+//         work("urgency")
+//     });
+// });
+
+// Promises Chaining
+
+
+// function devices(device){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//             console.log("Your device =", device)
+//             resolve("success");
+//         },2000);
+
+//     }
+// )
+// };
+
+// devices("samsung")
+// .then((res)=>{
+//     console.log(res);
+//     return devices("redmi");
+// })
+// .then((res)=>{
+//     console.log(res);
+//     return devices("oneplus");
+// })
+// .then((res)=>{
+//     console.log(res);
+//     console.log("Done");
+// });
 
 
 
