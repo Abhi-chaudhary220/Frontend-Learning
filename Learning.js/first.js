@@ -2478,4 +2478,23 @@
 
 
 
+// Async Await
 
+
+// function candies(candy){
+//     return new Promise((resolve, reject)=>{
+//     setTimeout(()=>{
+//         console.log("favourite candy =", candy);
+//         resolve("success");
+        
+//     },2000);
+//     })
+// };
+
+// async function toffee(){
+//     await candies("toffeechoo");
+//     await candies("gummies");
+
+// };
+
+// toffee();
