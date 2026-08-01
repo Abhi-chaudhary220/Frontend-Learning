@@ -2498,3 +2498,19 @@
 // };
 
 // toffee();
+
+
+// function holidays(occassion){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//         console.log("holiday =", occassion);
+//         resolve("obviously");
+//     },2000);
+//     })
+// };
+
+// (async function (){
+//     await holidays("diwali");
+//     await holidays("holi");
+
+// })();  IIFE stands for immediately invoked function execution this means that immediately called function as soon as defined
