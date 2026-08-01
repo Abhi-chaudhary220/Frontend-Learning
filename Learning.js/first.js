@@ -2520,7 +2520,7 @@
 // Starting learning about APIs
 
 async function getFacts() {
-let URL = "https://isitdownstatus.com/api/v1/status/github";
+let URL = "https://api.astroworldmc.com/api/v1/items";
 let response = await fetch(URL);
 let data = await response.json();
 console.log(data); 
