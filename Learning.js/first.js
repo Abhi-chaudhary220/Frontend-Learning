@@ -2364,3 +2364,21 @@
 // })
 // });    .catch practicing.
 
+// function work(urgent){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//             console.log("working =", urgent);
+//             resolve ("success");
+//         }, 2000);
+//     })
+    
+// };
+
+// work("quick").then((res)=>{
+//     console.log(res);
+//     work("hurry").then((res)=>{
+//         console.log(res);
+//     })
+// });   .then likhne ka ye better method h from previous method kyuki usme mujhe hrr then ka code alg likhna pd rha tha but isme maine .then ka code ek k andr ek kr dia h.
+
+
