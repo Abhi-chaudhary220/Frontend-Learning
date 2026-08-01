@@ -2520,7 +2520,7 @@
 // Starting learning about APIs
 
 async function getFacts() {
-let URL = "https://api.astroworldmc.com/api/v1/items";
+let URL = "https://api.astroworldmc.com/api/v1/enchantments";
 let response = await fetch(URL);
 let data = await response.json();
 console.log(data); 
