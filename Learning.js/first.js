@@ -2382,3 +2382,28 @@
 // });   .then likhne ka ye better method h from previous method kyuki usme mujhe hrr then ka code alg likhna pd rha tha but isme maine .then ka code ek k andr ek kr dia h.
 
 
+// function work(urgent){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//             console.log("working =", urgent);
+//             resolve ("success");
+//         }, 2000);
+//     })
+    
+// };
+
+// work("quick")
+// .then((res)=>{
+//     console.log(res);
+//     return work("hurry");
+// })
+// .then((res)=>{
+//     console.log(res);
+//     return work("emergency");
+//     })
+// .then((res)=>{
+//     console.log(res);
+// });   .then likhne ka ye previous code se bhi better method h because isme maine then k andr then nhi likha h blki maine repeatition avoid ki h maine function ko ek bar call kia with some input then maine uske niche .then ki chaining kri with return statement  jjisse ki second input ka output aa ske and iss method se code me repition kmm ho jati h joki acchi baat h.
+
+
+
