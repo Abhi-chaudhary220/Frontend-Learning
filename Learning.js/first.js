@@ -2514,3 +2514,16 @@
 //     await holidays("holi");
 
 // })();  IIFE stands for immediately invoked function execution this means that immediately called function as soon as defined
+
+
+
+// Starting learning about APIs
+
+async function getFacts() {
+let URL = "https://isitdownstatus.com/api/v1/status/github";
+let response = await fetch(URL);
+let data = await response;
+console.log(data); 
+}
+getFacts();
+
