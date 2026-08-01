@@ -2407,3 +2407,24 @@
 
 
 
+// function books(blackbook){
+//     return new Promise((resolve, reject)=>{
+//         setTimeout(()=>{
+//             console.log("genuine book=", blackbook);
+//             resolve("success");
+//         }, 2000);
+//     })
+// };
+
+// async function book(){
+//     console.log("coming book 1");
+//     await books("ncert");
+//     console.log("coming book 2");
+//     await books("geeta");
+// };  ye code assync await ka example h isme maine async await ko use kia h iska concept ye h ki ek aynchronous function bnana hota h jisme promise return krna hota h fir uss function me settimeout chlana hota h then uss blk k bahr ek nya aync function bnana hota h jisme await likhna hota h await sirf aync keywork function k inside he kaam krta h then await me jo bhi code hoga vo code one by one execute hoga and each code wait krega until its completion and await ka kaam hota h jahan await likha h uss line pe js k code ko wait krao until promise fulfill ye promise state vala nhi h ye iss baat ka promise h ki main tb tk wait krunga jb tk data 1 ka promise pending se fulfilled means completion of printing data 1 nhi aajata and so on.
+
+
+
+
+
+
