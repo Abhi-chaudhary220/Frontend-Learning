@@ -2425,6 +2425,29 @@
 
 
 
+// NOW I M WRITING CALLBACK HELL, PROMISES CHAINING AND ASYNC AWAIT CODE TO COMPARE WHICH ONE IS THE BEST AND MORE EASY TO UNDERSTAND AS WELL AS TO READ AND WRITE.
+
+
+// Callback Hell
+function work(Timeline, Deadline){
+    setTimeout(()=>{
+        console.log("work done in =", Timeline);
+        if(Deadline){
+            Deadline();
+        }
+
+    }, 2000);
+}
+
+function emergency(Timeline, urgent){
+    urgent(Timeline);
+};
+work("Less than time", ()=>{
+    work("On time", ()=>{
+        work("urgency")
+    });
+});
+
 
 
 
