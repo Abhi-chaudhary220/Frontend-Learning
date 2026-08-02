@@ -2519,11 +2519,19 @@
 
 // Starting learning about APIs
 
-async function getFacts() {
-let URL = "https://api.astroworldmc.com/api/v1/achievements";
-let response = await fetch(URL);
-let data = await response.json();
-console.log(data); 
-}
-getFacts();
+// async function getFacts() {
+// let URL = "https://api.astroworldmc.com/api/v1/achievements";
+// let response = await fetch(URL);
+// let data = await response.json();
+// console.log(data); 
+// }
+// getFacts();
+
+const Api = async ()=>{
+    let URL = "https://api.astroworldmc.com/api/v1/trades";
+    let response = await fetch(URL);
+    let data = await response.json();
+    console.log(data);
+};
+Api();
 
