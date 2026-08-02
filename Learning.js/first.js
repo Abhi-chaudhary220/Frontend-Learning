@@ -2527,11 +2527,19 @@
 // }
 // getFacts();
 
-const Api = async ()=>{
-    let URL = "https://api.astroworldmc.com/api/v1/trades";
-    let response = await fetch(URL);
-    let data = await response.json();
-    console.log(data);
-};
-Api();
+// const Api = async ()=>{
+//     let URL = "https://api.astroworldmc.com/api/v1/trades";
+//     let response = await fetch(URL);
+//     let data = await response.json();
+//     console.log(data);
+// };
+// Api();
+
+// (async function(){
+//     let URL = "emojihub.yurace.pro/api/random";
+//     let response = await fetch(URL);
+//     let data = await response;
+//     console.log(data);
+
+// })(); worked but when i fetch data into response object not in json format.
 
