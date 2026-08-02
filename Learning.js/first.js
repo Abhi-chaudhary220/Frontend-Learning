@@ -2543,3 +2543,23 @@
 
 // })(); worked but when i fetch data into response object not in json format.
 
+// const information = async()=>{
+//     let LINK = "https://api.dictionaryapi.dev/api/v2/entries/en/hello";
+//     let promise = fetch(LINK);
+//     promise
+//     .then(response=>response.json())
+//     .then(data=>{console.log(data);});
+//     };       practice
+
+// information();
+
+// const info = async ()=>{
+//     let URL = "https://api.dictionaryapi.dev/api/v2/entries/en/hello";
+//     let individual = fetch(URL);
+//     individual
+//     .then((response)=>{return response.json()})
+//     .then((data)=>{console.log(data);
+//     });
+//     };
+//     info();         practice
+    
