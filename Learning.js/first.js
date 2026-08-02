@@ -2561,5 +2561,28 @@
 //     .then((data)=>{console.log(data);
 //     });
 //     };
-//     info();         practice
+//     info();      practice
+
+// let digit = document.querySelector("#one");
+// let btn1 = document.querySelector("#btn");
+
+
+// async function hello(){
+//     let URL = "https://api.dictionaryapi.dev/api/v2/entries/en/boss";
+//     let response = await fetch(URL);
+//     console.log(response);
+//     let new_data = await response.json();
+//     let updated_data = new_data[1];
+//     let updated_data_2 = new_data[1].word;
+//     btn1.addEventListener("click", ()=>{
+//     digit.innerText = updated_data_2;
+
+// });
     
+
+// };
+// hello();   practicing of apis
+
+
+
+
