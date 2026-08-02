@@ -2572,16 +2572,16 @@
 //     let response = await fetch(URL);
 //     console.log(response);
 //     let new_data = await response.json();
-//     let updated_data = new_data[1];
-//     let updated_data_2 = new_data[1].word;
-//     btn1.addEventListener("click", ()=>{
-//     digit.innerText = updated_data_2;
-
-// });
+//     let updated_data = new_data[1].word;
+//     digit.innerText = updated_data;
     
 
 // };
-// hello();   practicing of apis
+// btn1.addEventListener("click", hello);
+
+
+
+
 
 
 
