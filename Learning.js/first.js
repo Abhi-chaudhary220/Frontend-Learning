@@ -2573,11 +2573,25 @@
 //     console.log(response);
 //     let new_data = await response.json();
 //     let updated_data = new_data[1].word;
+//     btn1.addEventListener("click", ()=>{
 //     digit.innerText = updated_data;
+// });
     
 
 // };
-// btn1.addEventListener("click", hello);
+// hello();
+
+const hello = async ()=>{
+    let url = "https://api.dictionaryapi.dev/api/v2/entries/en/boss";
+    let response = await fetch(url);
+    let data = await response.json();
+    console.log(data);
+
+};
+hello();
+
+
+
 
 
 
