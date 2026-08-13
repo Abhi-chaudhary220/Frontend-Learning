@@ -2590,13 +2590,13 @@
 // };
 // hello(); 
 
-async function Data(){
-    let link = "https://api.dictionaryapi.dev/api/v2/entries/en/boss";
-    let response = await fetch(link);
-    let data = await response.json();
-    console.log(data);
-};
-Data();
+// async function Data(){
+//     let link = "https://api.dictionaryapi.dev/api/v2/entries/en/boss";
+//     let response = await fetch(link);
+//     let data = await response.json();
+//     console.log(data);
+// };
+// Data();
 
 
 
