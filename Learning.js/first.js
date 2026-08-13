@@ -2581,14 +2581,24 @@
 // };
 // hello();
 
-const hello = async ()=>{
-    let url = "https://api.dictionaryapi.dev/api/v2/entries/en/boss";
-    let response = await fetch(url);
+// const hello = async ()=>{
+//     let url = "https://api.dictionaryapi.dev/api/v2/entries/en/boss";
+//     let response = await fetch(url);
+//     let data = await response.json();
+//     console.log(data);
+
+// };
+// hello(); 
+
+async function Data(){
+    let link = "https://api.dictionaryapi.dev/api/v2/entries/en/boss";
+    let response = await fetch(link);
     let data = await response.json();
     console.log(data);
-
 };
-hello();
+Data();
+
+
 
 
 
