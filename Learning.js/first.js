@@ -39,7 +39,7 @@
 
 // FOR KNOWLEDGE PURPOSE - DEFAULT= CONST, IF THERE'S A CHANCE OF VALUE CHANGE THEN= LET, AVOID= VAR;
 
-// IMPORTANT:- variable aand values changed in const only when there'e a object.
+// IMPORTANT:- variable and values changed in const only when there'e a object.
 
 // const user = { Name: "Deepu", age: 20 };
 // user.Name="Vicky";
@@ -277,7 +277,7 @@
 
 // let c = 5;
 // let d = "3 + 2";
-// console.log (c != d); yha true isliye mila kyuki js string ko number me change krta h pr yha number to h pr whole k form me nhi expression k form me h isliye ye true hua k not equal h if yha pr whole sting inside number hota to false show hota.
+// console.log (c != d); yha true isliye mila kyuki js string ko number me change krta h pr yha number to h pr whole k form me nhi expression k form me h isliye ye true hua joki not equal h if yha pr whole string inside number hota to false show hota.
 
 // let e = 48473808;
 // let f = 79579375;
